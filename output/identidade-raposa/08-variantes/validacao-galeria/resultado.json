@@ -1,0 +1,23 @@
+{
+  "desktop": {
+    "brokenImages": [],
+    "overflow": false
+  },
+  "mobile": {
+    "brokenImages": [],
+    "overflow": false
+  },
+  "controls": [
+    "head",
+    "symbol",
+    "full",
+    "light",
+    "dark",
+    "alpha",
+    "recommended"
+  ],
+  "httpErrors": [],
+  "consoleErrors": [],
+  "originalGalleryMobileOverflow": false,
+  "originalStudiesPreserved": true
+}

@@ -1,0 +1,261 @@
+[
+  {
+    "name": "03-mestre/raposa-mestre",
+    "svg": "03-mestre/raposa-mestre.svg",
+    "png": "03-mestre/raposa-mestre.png",
+    "width": 1400,
+    "height": 1385
+  },
+  {
+    "name": "03-mestre/raposa-solid",
+    "svg": "03-mestre/raposa-solid.svg",
+    "png": "03-mestre/raposa-solid.png",
+    "width": 1400,
+    "height": 1385
+  },
+  {
+    "name": "03-mestre/raposa-silhouette",
+    "svg": "03-mestre/raposa-silhouette.svg",
+    "png": "03-mestre/raposa-silhouette.png",
+    "width": 1400,
+    "height": 1385
+  },
+  {
+    "name": "03-mestre/raposa-black",
+    "svg": "03-mestre/raposa-black.svg",
+    "png": "03-mestre/raposa-black.png",
+    "width": 1400,
+    "height": 1385
+  },
+  {
+    "name": "03-mestre/raposa-mono",
+    "svg": "03-mestre/raposa-mono.svg",
+    "png": "03-mestre/raposa-mono.png",
+    "width": 1400,
+    "height": 1385
+  },
+  {
+    "name": "03-mestre/raposa-reverse",
+    "svg": "03-mestre/raposa-reverse.svg",
+    "png": "03-mestre/raposa-reverse.png",
+    "width": 1400,
+    "height": 1385
+  },
+  {
+    "name": "03-mestre/fundo-claro",
+    "svg": "03-mestre/fundo-claro.svg",
+    "png": "03-mestre/fundo-claro.png",
+    "width": 1400,
+    "height": 1385
+  },
+  {
+    "name": "03-mestre/fundo-roxo",
+    "svg": "03-mestre/fundo-roxo.svg",
+    "png": "03-mestre/fundo-roxo.png",
+    "width": 1400,
+    "height": 1385
+  },
+  {
+    "name": "03-mestre/cabeca",
+    "svg": "03-mestre/cabeca.svg",
+    "png": "03-mestre/cabeca.png",
+    "width": 1024,
+    "height": 924
+  },
+  {
+    "name": "03-mestre/cauda",
+    "svg": "03-mestre/cauda.svg",
+    "png": "03-mestre/cauda.png",
+    "width": 800,
+    "height": 1505
+  },
+  {
+    "name": "04-sistema/head-mark",
+    "svg": "04-sistema/head-mark.svg",
+    "png": "04-sistema/head-mark.png",
+    "width": 1024,
+    "height": 924
+  },
+  {
+    "name": "04-sistema/full-character",
+    "svg": "04-sistema/full-character.svg",
+    "png": "04-sistema/full-character.png",
+    "width": 1400,
+    "height": 1385
+  },
+  {
+    "name": "04-sistema/brand-symbol",
+    "svg": "04-sistema/brand-symbol.svg",
+    "png": "04-sistema/brand-symbol.png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "name": "04-sistema/brand-symbol-mono",
+    "svg": "04-sistema/brand-symbol-mono.svg",
+    "png": "04-sistema/brand-symbol-mono.png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "name": "04-sistema/icones/simbolo-16",
+    "svg": "04-sistema/icones/simbolo-16.svg",
+    "png": "04-sistema/icones/simbolo-16.png",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "04-sistema/icones/simbolo-24",
+    "svg": "04-sistema/icones/simbolo-24.svg",
+    "png": "04-sistema/icones/simbolo-24.png",
+    "width": 24,
+    "height": 24
+  },
+  {
+    "name": "04-sistema/icones/simbolo-32",
+    "svg": "04-sistema/icones/simbolo-32.svg",
+    "png": "04-sistema/icones/simbolo-32.png",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "name": "04-sistema/icones/simbolo-48",
+    "svg": "04-sistema/icones/simbolo-48.svg",
+    "png": "04-sistema/icones/simbolo-48.png",
+    "width": 48,
+    "height": 48
+  },
+  {
+    "name": "04-sistema/icones/simbolo-64",
+    "svg": "04-sistema/icones/simbolo-64.svg",
+    "png": "04-sistema/icones/simbolo-64.png",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "name": "04-sistema/icones/simbolo-128",
+    "svg": "04-sistema/icones/simbolo-128.svg",
+    "png": "04-sistema/icones/simbolo-128.png",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "name": "04-sistema/icones/simbolo-256",
+    "svg": "04-sistema/icones/simbolo-256.svg",
+    "png": "04-sistema/icones/simbolo-256.png",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "name": "04-sistema/app-icon",
+    "svg": "04-sistema/app-icon.svg",
+    "png": "04-sistema/app-icon.png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "name": "04-sistema/avatar",
+    "svg": "04-sistema/avatar.svg",
+    "png": "04-sistema/avatar.png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "name": "05-construcao/vista-tres-quartos",
+    "svg": "05-construcao/vista-tres-quartos.svg",
+    "png": "05-construcao/vista-tres-quartos.png",
+    "width": 1400,
+    "height": 1385
+  },
+  {
+    "name": "06-expressoes/neutro",
+    "svg": "06-expressoes/neutro.svg",
+    "png": "06-expressoes/neutro.png",
+    "width": 900,
+    "height": 852
+  },
+  {
+    "name": "06-expressoes/curioso",
+    "svg": "06-expressoes/curioso.svg",
+    "png": "06-expressoes/curioso.png",
+    "width": 900,
+    "height": 852
+  },
+  {
+    "name": "06-expressoes/feliz",
+    "svg": "06-expressoes/feliz.svg",
+    "png": "06-expressoes/feliz.png",
+    "width": 900,
+    "height": 852
+  },
+  {
+    "name": "06-expressoes/pensando",
+    "svg": "06-expressoes/pensando.svg",
+    "png": "06-expressoes/pensando.png",
+    "width": 900,
+    "height": 852
+  },
+  {
+    "name": "06-expressoes/alerta",
+    "svg": "06-expressoes/alerta.svg",
+    "png": "06-expressoes/alerta.png",
+    "width": 900,
+    "height": 852
+  },
+  {
+    "name": "06-expressoes/satisfeito",
+    "svg": "06-expressoes/satisfeito.svg",
+    "png": "06-expressoes/satisfeito.png",
+    "width": 900,
+    "height": 852
+  },
+  {
+    "name": "06-expressoes/frustracao",
+    "svg": "06-expressoes/frustracao.svg",
+    "png": "06-expressoes/frustracao.png",
+    "width": 900,
+    "height": 852
+  },
+  {
+    "name": "06-expressoes/comemorando",
+    "svg": "06-expressoes/comemorando.svg",
+    "png": "06-expressoes/comemorando.png",
+    "width": 900,
+    "height": 852
+  },
+  {
+    "name": "pranchas/03-personagem-mestre",
+    "svg": "pranchas/03-personagem-mestre.svg",
+    "png": "pranchas/03-personagem-mestre.png",
+    "width": 2000,
+    "height": 1579
+  },
+  {
+    "name": "pranchas/04-sistema",
+    "svg": "pranchas/04-sistema.svg",
+    "png": "pranchas/04-sistema.png",
+    "width": 1800,
+    "height": 834
+  },
+  {
+    "name": "pranchas/06-expressoes",
+    "svg": "pranchas/06-expressoes.svg",
+    "png": "pranchas/06-expressoes.png",
+    "width": 2100,
+    "height": 1276
+  },
+  {
+    "name": "pranchas/05-geometria",
+    "svg": "pranchas/05-geometria.svg",
+    "png": "pranchas/05-geometria.png",
+    "width": 2000,
+    "height": 1579
+  },
+  {
+    "name": "pranchas/05-paleta",
+    "svg": "pranchas/05-paleta.svg",
+    "png": "pranchas/05-paleta.png",
+    "width": 1600,
+    "height": 503
+  }
+]

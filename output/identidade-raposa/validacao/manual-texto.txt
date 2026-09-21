@@ -1,0 +1,76 @@
+03 · Personagem mestre
+Personagem mestre
+Uma matriz de formas. Versões de uso.
+Gradiente Cor sólida Silhueta
+Cabeça
+ Monocromático Fundo roxo
+Raposa · guia da identidade · edição 03 1 / 7
+
+04 · Níveis de representação
+Três níveis de representação
+Símbolo • cabeça • personagem completo
+Brand symbol Head mark Full character
+Raposa · guia da identidade · edição 03 2 / 7
+
+05 · Character sheet — construção
+Gramática visual
+Medidas na matriz vetorial. Sem redesenhar entre aplicações.
+Cabeça + orelhas Máscara contínua Olhos e nariz
+Peito em gota Cauda + ponta Símbolo reduzido
+Raposa · guia da identidade · edição 03 3 / 7
+
+05 · Paleta
+Paleta da identidade
+orange
+#FF8B08
+gold
+#FFC326
+coral
+#FF5936
+purple
+#2B0B49
+black
+#000000
+ivory
+#FFF8EE
+Raposa · guia da identidade · edição 03 4 / 7
+
+06 · Expressões
+Oito expressões
+Rosto econômico. Identidade constante.
+Neutro Curioso Feliz Pensando
+Alerta Satisfeito Leve frustração Comemorando
+Raposa · guia da identidade · edição 03 5 / 7
+
+07 · Correção do corpo
+Uma base corporal mais contínua.
+Estudos em PNG a partir das referências. O personagem mestre permanece preservado.
+Base do corpo em pé
+ Caminhando
+ Farejando o chão
+As poses e vistas da edição rejeitada foram retiradas. Estes estudos ainda não substituem a matriz SVG e não foram aprovados como identidade
+final.
+Raposa · correção corporal · edição 03 6 / 7
+
+Uso e validação
+Uma matriz, aplicações consistentes.
+Use o arquivo mestre em SVG para ampliar. Os PNGs
+têm transparência e servem para inserção direta em
+documentos, páginas e apresentações.
+Símbolo: 16, 24 e 32 pixels.
+Cabeça completa: a partir de 64 pixels.
+Corpo completo: preferencialmente a partir de
+120 pixels.
+Preserve proporções, cores e margem de respiro.
+16 × 16
+ 24 × 24
+ 32 × 32
+Ícones acima em tamanho nativo de CSS. O pacote
+contém as exportações reais em pixels e favicon ICO.
+O rosto principal permanece nas oito expressões. Os três novos estudos
+corporais são PNGs com fundo claro. Os arquivos SVG da matriz continuam
+editáveis e não contêm imagens embutidas.
+A matriz vetorial mantém a identidade visual, com pequenas diferenças em
+relação ao PNG aprovado. As vistas e poses rejeitadas foram retiradas. A revisão
+visual do corpo precede a próxima etapa de vetorização.
+Consulte também o relatório e a galeria de arquivos individuais. 7 / 7

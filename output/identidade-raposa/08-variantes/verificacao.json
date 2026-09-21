@@ -1,0 +1,1208 @@
+{
+  "verifiedAt": "2026-09-21T00:35:54.850Z",
+  "comparison": "Exact SVG bytes after normalizing only hex color tokens and title contents; exact PNG alpha against source rendered at the declared resolution.",
+  "variantCount": 2,
+  "assetCount": 44,
+  "allOriginalsUnchanged": true,
+  "originalChecks": [
+    {
+      "path": "03-mestre/cabeca.png",
+      "unchanged": true,
+      "sha256": "74a7a363122eaa6618072abbafc933d8a57d1d5ee347ffdb859bc9f8d8fb186f"
+    },
+    {
+      "path": "03-mestre/cabeca.svg",
+      "unchanged": true,
+      "sha256": "e1f74f48fd8c39da42585a13445a94ca4ea5ce180bd1ada3dd87f4b7eb588e18"
+    },
+    {
+      "path": "03-mestre/cauda.png",
+      "unchanged": true,
+      "sha256": "37d72f42a3ee5c5c7baffdf55cceb54ff8cb742461fdb4be88b68a49e5fb37b8"
+    },
+    {
+      "path": "03-mestre/cauda.svg",
+      "unchanged": true,
+      "sha256": "4ef48b1ba6f8b656567107516a8b7c6369256c1cf726128fc9beeb3ee1ff94b1"
+    },
+    {
+      "path": "03-mestre/fundo-claro.png",
+      "unchanged": true,
+      "sha256": "4e60370a35717a8d2acd80b352cfce3f2172d4f4e326e86d1491cf2c2edb0452"
+    },
+    {
+      "path": "03-mestre/fundo-claro.svg",
+      "unchanged": true,
+      "sha256": "f11474c746d026cb9713d7de69438567b6304840b81a4c7d9077222a6b4f6a5b"
+    },
+    {
+      "path": "03-mestre/fundo-roxo.png",
+      "unchanged": true,
+      "sha256": "cac961ecd75dbc7a09635174433b1a45c4c0d988d2e7d8149a0202583aac996d"
+    },
+    {
+      "path": "03-mestre/fundo-roxo.svg",
+      "unchanged": true,
+      "sha256": "c570b1c274d3f3e1c8e373df01e4d0ae6f52a28ec5cbab985466d680741a5adf"
+    },
+    {
+      "path": "03-mestre/raposa-black.png",
+      "unchanged": true,
+      "sha256": "ecf14263d2fab6dbce288e4bd79ffd2d920950712a65e8178b63f5a75d252c5a"
+    },
+    {
+      "path": "03-mestre/raposa-black.svg",
+      "unchanged": true,
+      "sha256": "45680b2447d717188d444440e62603a0ebc18c4f9a42924dbe9b94e0ff00bca3"
+    },
+    {
+      "path": "03-mestre/raposa-mestre.png",
+      "unchanged": true,
+      "sha256": "4290a3fcd5de047c1fe97e638171b70eeedc24f75e87d512905e864b35a46dfa"
+    },
+    {
+      "path": "03-mestre/raposa-mestre.svg",
+      "unchanged": true,
+      "sha256": "a6df4f16bb4035e604f162d5e27f9831d124b3869ffcacd618796f31bf210252"
+    },
+    {
+      "path": "03-mestre/raposa-mono.png",
+      "unchanged": true,
+      "sha256": "ae4b2c2377d19bd853c36f514187e0b42dec47ef497719884378b42a6ac00329"
+    },
+    {
+      "path": "03-mestre/raposa-mono.svg",
+      "unchanged": true,
+      "sha256": "de3edd98eac5eab11c84fc8596fe3b22947a5ba852feca85a5657e62673438fe"
+    },
+    {
+      "path": "03-mestre/raposa-reverse.png",
+      "unchanged": true,
+      "sha256": "24347a1464afcd577857cba509c2c13a75db2b24d5269294f76a32c59a32a624"
+    },
+    {
+      "path": "03-mestre/raposa-reverse.svg",
+      "unchanged": true,
+      "sha256": "30804d26c512987340f99c4304adea9d981165daf201278839300e569027cc40"
+    },
+    {
+      "path": "03-mestre/raposa-silhouette.png",
+      "unchanged": true,
+      "sha256": "52a913633cff5a41dbb08a4c7bd7e11244138dcdff88e4535023b34417ca54cd"
+    },
+    {
+      "path": "03-mestre/raposa-silhouette.svg",
+      "unchanged": true,
+      "sha256": "ffe45ccf7d41c82bc07223cacf1cb75e646dc28d2df0ef413f65e3c55ca7ad5c"
+    },
+    {
+      "path": "03-mestre/raposa-solid.png",
+      "unchanged": true,
+      "sha256": "c008d4e5fb84d0c3b60f7939ff033d5929f5230703dab864a9f182f00f2b07b5"
+    },
+    {
+      "path": "03-mestre/raposa-solid.svg",
+      "unchanged": true,
+      "sha256": "0c5cbebffc9a94dd287e87794107181d754044680e5a38d0cfe45da153c6488b"
+    },
+    {
+      "path": "04-sistema/app-icon.png",
+      "unchanged": true,
+      "sha256": "ad2e3d1aa718a5663e5bd6027e59ad4599f6e7d1970e03144e6d95f66180a49b"
+    },
+    {
+      "path": "04-sistema/app-icon.svg",
+      "unchanged": true,
+      "sha256": "5439032d3b9dc0ee140bd1114d0396583398a46a27f93180553e0b725569cba3"
+    },
+    {
+      "path": "04-sistema/avatar.png",
+      "unchanged": true,
+      "sha256": "b52a138f187922db1731f7656f431b9e01cf869436458f7fa02c6a0ce52f0177"
+    },
+    {
+      "path": "04-sistema/avatar.svg",
+      "unchanged": true,
+      "sha256": "2cc9004a4f291a77e9f37f265d2fdf66d524eef68325026a4f6ec00f04d7871a"
+    },
+    {
+      "path": "04-sistema/brand-symbol-mono.png",
+      "unchanged": true,
+      "sha256": "20e024a2224acdf7048079b68fc3e2c44044dcd829e696cff2720296e3cb005f"
+    },
+    {
+      "path": "04-sistema/brand-symbol-mono.svg",
+      "unchanged": true,
+      "sha256": "8b0ac2b4c2818a0a545b65002c90eab943e0712e8b1ca5f1aaed72db123b258e"
+    },
+    {
+      "path": "04-sistema/brand-symbol.png",
+      "unchanged": true,
+      "sha256": "0d43257a4dd74ea182acace1b08131dd2796ce215412711b0e8362705c12af91"
+    },
+    {
+      "path": "04-sistema/brand-symbol.svg",
+      "unchanged": true,
+      "sha256": "fca934bb9cf2c511a7b0dec9bcc3cbf755509d4528151579b1f4a5d2bfc92f01"
+    },
+    {
+      "path": "04-sistema/favicon.ico",
+      "unchanged": true,
+      "sha256": "75a9f132aab12fcf4c746257c77d873184d1a0e20c8aab3a8edf2acbc9c83cde"
+    },
+    {
+      "path": "04-sistema/full-character.png",
+      "unchanged": true,
+      "sha256": "4290a3fcd5de047c1fe97e638171b70eeedc24f75e87d512905e864b35a46dfa"
+    },
+    {
+      "path": "04-sistema/full-character.svg",
+      "unchanged": true,
+      "sha256": "9121c3d71d3f0c3437a71c68a9c2d7f01060a82108dec278c6cf5e50185dcf14"
+    },
+    {
+      "path": "04-sistema/head-mark.png",
+      "unchanged": true,
+      "sha256": "74a7a363122eaa6618072abbafc933d8a57d1d5ee347ffdb859bc9f8d8fb186f"
+    },
+    {
+      "path": "04-sistema/head-mark.svg",
+      "unchanged": true,
+      "sha256": "1e989a30db9ec2e247c8b2e94d6730c0347d10f6671c87026b60c0d6a70ed730"
+    },
+    {
+      "path": "04-sistema/icones/simbolo-128.png",
+      "unchanged": true,
+      "sha256": "8fa93634d632cafef7df245871237bcaf15a70bed196e461ffbe82b8f5485f40"
+    },
+    {
+      "path": "04-sistema/icones/simbolo-128.svg",
+      "unchanged": true,
+      "sha256": "fca934bb9cf2c511a7b0dec9bcc3cbf755509d4528151579b1f4a5d2bfc92f01"
+    },
+    {
+      "path": "04-sistema/icones/simbolo-16.png",
+      "unchanged": true,
+      "sha256": "eadc7672dc1a12119070c3229a3ebd1c227ac8b8d89c69b43db013ebfd9a81e5"
+    },
+    {
+      "path": "04-sistema/icones/simbolo-16.svg",
+      "unchanged": true,
+      "sha256": "cd764ae3dc16f14a54f465ec9d348896bfc7e05a086fab51e4445b02197b7fb5"
+    },
+    {
+      "path": "04-sistema/icones/simbolo-24.png",
+      "unchanged": true,
+      "sha256": "9ef3beea1ad0226fcf05d6dea1d55e07862d9832d808de7f5ac1109452350d6c"
+    },
+    {
+      "path": "04-sistema/icones/simbolo-24.svg",
+      "unchanged": true,
+      "sha256": "cd764ae3dc16f14a54f465ec9d348896bfc7e05a086fab51e4445b02197b7fb5"
+    },
+    {
+      "path": "04-sistema/icones/simbolo-256.png",
+      "unchanged": true,
+      "sha256": "58d8f7744510d58a0a5abed0c85edc679c1a6758262d5b2f9f04802a3bbea483"
+    },
+    {
+      "path": "04-sistema/icones/simbolo-256.svg",
+      "unchanged": true,
+      "sha256": "fca934bb9cf2c511a7b0dec9bcc3cbf755509d4528151579b1f4a5d2bfc92f01"
+    },
+    {
+      "path": "04-sistema/icones/simbolo-32.png",
+      "unchanged": true,
+      "sha256": "b55a094c87cdb7ff75915fe5cc9284a622208613bcfbd1e25f641baa82135ed4"
+    },
+    {
+      "path": "04-sistema/icones/simbolo-32.svg",
+      "unchanged": true,
+      "sha256": "cd764ae3dc16f14a54f465ec9d348896bfc7e05a086fab51e4445b02197b7fb5"
+    },
+    {
+      "path": "04-sistema/icones/simbolo-48.png",
+      "unchanged": true,
+      "sha256": "9dcfb622ab92cef516b0bc3a26485afda808e0a79a84c32c0ec71fd98712746a"
+    },
+    {
+      "path": "04-sistema/icones/simbolo-48.svg",
+      "unchanged": true,
+      "sha256": "fca934bb9cf2c511a7b0dec9bcc3cbf755509d4528151579b1f4a5d2bfc92f01"
+    },
+    {
+      "path": "04-sistema/icones/simbolo-64.png",
+      "unchanged": true,
+      "sha256": "7a315b5d25758ba49fae80d128c833fde61e7a7e8ddd3f7e06bb6ae0fc43618c"
+    },
+    {
+      "path": "04-sistema/icones/simbolo-64.svg",
+      "unchanged": true,
+      "sha256": "fca934bb9cf2c511a7b0dec9bcc3cbf755509d4528151579b1f4a5d2bfc92f01"
+    },
+    {
+      "path": "05-construcao/vista-tres-quartos.png",
+      "unchanged": true,
+      "sha256": "4290a3fcd5de047c1fe97e638171b70eeedc24f75e87d512905e864b35a46dfa"
+    },
+    {
+      "path": "05-construcao/vista-tres-quartos.svg",
+      "unchanged": true,
+      "sha256": "dd9f274c6555525c87a453bc9ae6042a636ceb84369a61819f4c5d062959c176"
+    },
+    {
+      "path": "06-expressoes/alerta.png",
+      "unchanged": true,
+      "sha256": "98ced2a7b147e3c7815ee1219f1b3515ceea984b95a3077830a069e749a203f8"
+    },
+    {
+      "path": "06-expressoes/alerta.svg",
+      "unchanged": true,
+      "sha256": "63cccb2f51f944fab0117d56fe8205a281afcbe1ad979b9ac6de20d35ef6a9f2"
+    },
+    {
+      "path": "06-expressoes/comemorando.png",
+      "unchanged": true,
+      "sha256": "4300b55a22bb5d4f32e231b227e7d6eac811cc876cc687d33ed74259b2340557"
+    },
+    {
+      "path": "06-expressoes/comemorando.svg",
+      "unchanged": true,
+      "sha256": "e23fb7109b2496eecb4342b9b856de3550b44dd3dc14319c005c721d1e63f179"
+    },
+    {
+      "path": "06-expressoes/curioso.png",
+      "unchanged": true,
+      "sha256": "f7be8087c90af55380249c4b57240d4c53422e0935d0bdd387dd1a98bdddaa39"
+    },
+    {
+      "path": "06-expressoes/curioso.svg",
+      "unchanged": true,
+      "sha256": "81450cc9781a4ee3e394711c0503a661f58e16676a23bc3534804321e1eec879"
+    },
+    {
+      "path": "06-expressoes/feliz.png",
+      "unchanged": true,
+      "sha256": "0d642be99c5b52276831e8465830aea6162cd822723025abae348d86349d2689"
+    },
+    {
+      "path": "06-expressoes/feliz.svg",
+      "unchanged": true,
+      "sha256": "6b7ac4b9fad38084bb1150ddb6fc795616d5c75250bd1393010b0a31cd14fdbd"
+    },
+    {
+      "path": "06-expressoes/frustracao.png",
+      "unchanged": true,
+      "sha256": "3efce85930e17967d98e55cc870a1feb6cebedb494364e72b796dd9af42f5e63"
+    },
+    {
+      "path": "06-expressoes/frustracao.svg",
+      "unchanged": true,
+      "sha256": "ef9cfab11781e619162acb3ca30c134d841071f1d187aa113c5ca95a41fcdd5f"
+    },
+    {
+      "path": "06-expressoes/neutro.png",
+      "unchanged": true,
+      "sha256": "a4c8c39678b4854871f2255efb118259f2969de75e85fff4b1b201cb6f8dd453"
+    },
+    {
+      "path": "06-expressoes/neutro.svg",
+      "unchanged": true,
+      "sha256": "3e5c089760c204b38919059c045809429eff0ad5b31bad5b34544071545e2b4d"
+    },
+    {
+      "path": "06-expressoes/pensando.png",
+      "unchanged": true,
+      "sha256": "3b0ede155dbccea79aa35ff70613b4636c20b2c6539c8b56165d1acf7e7c934e"
+    },
+    {
+      "path": "06-expressoes/pensando.svg",
+      "unchanged": true,
+      "sha256": "8253c3bce4f8088fff684d12f6edd87ee8cdf26ab71321722309fb453be2afa3"
+    },
+    {
+      "path": "06-expressoes/satisfeito.png",
+      "unchanged": true,
+      "sha256": "36c83eb5039f3131d3ce7930c4bfb9ae6283553bb60c7715e112e48cd91f75a6"
+    },
+    {
+      "path": "06-expressoes/satisfeito.svg",
+      "unchanged": true,
+      "sha256": "fb17174d08e151e34a9f02828a81081fb9cbb3ea615352bed74aeb2c234f9d16"
+    },
+    {
+      "path": "estudos-corpo/caminhando.png",
+      "unchanged": true,
+      "sha256": "0d523e7bce11891e949aaba276f40e5b5c66c5c30612aad6d9b172a3311a5798"
+    },
+    {
+      "path": "estudos-corpo/em-pe.png",
+      "unchanged": true,
+      "sha256": "f3c5c649c9ae5104f75dc13d236663cf0c5b69fa40f920bf4aa55d6088924265"
+    },
+    {
+      "path": "estudos-corpo/farejando.png",
+      "unchanged": true,
+      "sha256": "64860684053677cac93f3ffeb54b5256e5104f30e716c2b4eb6268686c32b0fa"
+    },
+    {
+      "path": "estudos-corpo/manifest.json",
+      "unchanged": true,
+      "sha256": "6b7bea97f52d3e624f4ea562fd14e439aa48ea288389eae3095bfc14328936f6"
+    },
+    {
+      "path": "estudos-corpo/PROMPTS.md",
+      "unchanged": true,
+      "sha256": "22cc24bee061ba3d0ba2dde6fe2faf5aeda880cab3989e59ae26ffec81825f22"
+    },
+    {
+      "path": "LEIA-ME.md",
+      "unchanged": true,
+      "sha256": "3e100e213211006de8e541656a7307ae2e3d737fe269d69cb66d49444c6d44a6"
+    },
+    {
+      "path": "manifest.json",
+      "unchanged": true,
+      "sha256": "a651f613b90fb595720f01fc6f6c85b480d1aab9aaea64b329c02e38162705e6"
+    },
+    {
+      "path": "manual-da-identidade.pdf",
+      "unchanged": true,
+      "sha256": "3aaf7c6e39b3d985d7ef8a652a81b4c3a8d147a1051ae9d5c36d1b836299f2ac"
+    },
+    {
+      "path": "manual-impressao.html",
+      "unchanged": true,
+      "sha256": "8d69c7f863c0b6f6d3457d0c0845cc699c0d5b66658d654f3308d8b097c754cd"
+    },
+    {
+      "path": "paleta.json",
+      "unchanged": true,
+      "sha256": "72f0eda1b4832fb2eb3c136a5ba028496da6f152c5bb0f114294c849a7b82086"
+    },
+    {
+      "path": "pranchas/03-personagem-mestre.png",
+      "unchanged": true,
+      "sha256": "1de043a5b9e3ae122bb491b8e324c726a0dd97032fef3775c35cad62211eb52a"
+    },
+    {
+      "path": "pranchas/03-personagem-mestre.svg",
+      "unchanged": true,
+      "sha256": "152dfee9f7e69a2e318584ac9165d2fed9a2b49c56717f0ce6d2949f6d409214"
+    },
+    {
+      "path": "pranchas/04-sistema.png",
+      "unchanged": true,
+      "sha256": "a91e00c9b4a466b1aeee796820379c6ebd512551de67a308cc0206cf7c5f82a1"
+    },
+    {
+      "path": "pranchas/04-sistema.svg",
+      "unchanged": true,
+      "sha256": "e7b412a1be003680772bc7dd6ed25e7122ee93a29619db6bc3bfe49f5ebeb701"
+    },
+    {
+      "path": "pranchas/05-geometria.png",
+      "unchanged": true,
+      "sha256": "ad800cf1916165919a9c0554882e98d9d9ec9e36e4f5e36f843128dc0b054bf7"
+    },
+    {
+      "path": "pranchas/05-geometria.svg",
+      "unchanged": true,
+      "sha256": "1a11183db3921af7e23bac44931f6ef9c055209cc7643a277e179f7ec2aa1612"
+    },
+    {
+      "path": "pranchas/05-paleta.png",
+      "unchanged": true,
+      "sha256": "af384a0b226ee2678b02a052857773f94dca350b41e2d744984bbf5e30cf0718"
+    },
+    {
+      "path": "pranchas/05-paleta.svg",
+      "unchanged": true,
+      "sha256": "ccedb8c7d9629c02daf4fc19c421dfc4d33b5a717d81bfaac91dac856f54c288"
+    },
+    {
+      "path": "pranchas/06-expressoes.png",
+      "unchanged": true,
+      "sha256": "c9e091bc1098547f3db4f3661ff29f76b95287d73c62c27af50da927f61ef1d7"
+    },
+    {
+      "path": "pranchas/06-expressoes.svg",
+      "unchanged": true,
+      "sha256": "eb99b2e93c74792f0718ffbaa8ab7f95fa8874be83a449bc3bccc7df6197d8fc"
+    },
+    {
+      "path": "referencias/anatomia-em-pe.png",
+      "unchanged": true,
+      "sha256": "91baff186d37f664676f0da3296e1fd46b1e3b17271ac4f9d22910791f9e37fc"
+    },
+    {
+      "path": "referencias/briefing-original.txt",
+      "unchanged": true,
+      "sha256": "efdffe2537089d37e8047c946dcd5d9ce91aecbe183568453077605062d0462c"
+    },
+    {
+      "path": "referencias/modelo-aprovado.png",
+      "unchanged": true,
+      "sha256": "d898df1ed55f31ab80c3edb34e5678785aab3b466fb9a3c3fa03748d3b4df86c"
+    },
+    {
+      "path": "referencias/referencia-movimento.png",
+      "unchanged": true,
+      "sha256": "10b3282395802972b0e6cb6dc2f80cb166266119dccddde4262abf56d27307be"
+    },
+    {
+      "path": "referencias/referencia-sentada.png",
+      "unchanged": true,
+      "sha256": "3d15bfd68997900204658f37dcc6730f34719c8db39ba987c87047f5d279118a"
+    },
+    {
+      "path": "REGRAS-DA-IDENTIDADE.md",
+      "unchanged": true,
+      "sha256": "582b5ea230224f30283abded07a85ad5a15eea345e74b24c42e9dbb9872e3b8a"
+    },
+    {
+      "path": "validacao/conferencia-publicacao.json",
+      "unchanged": true,
+      "sha256": "e5fa6eda493ce2899c1f948f7b1cc713c623fa6a4d56f19815f36b4741438cb7"
+    },
+    {
+      "path": "validacao/galeria-desktop.png",
+      "unchanged": true,
+      "sha256": "4048a717169f4cbae75fb48d208ed16b8a6e8ebd436f195307b30a456c09ed28"
+    },
+    {
+      "path": "validacao/galeria-mobile.png",
+      "unchanged": true,
+      "sha256": "7e49845c553542ad314be151684026df713b42e0ecca7bf8a4d2ba3b559852b0"
+    },
+    {
+      "path": "validacao/galeria-poses.png",
+      "unchanged": true,
+      "sha256": "b07e8bf99f4e5c1a0916a8dc50af0ab97988f6fc357ba83eaaa4cea69187eae1"
+    },
+    {
+      "path": "validacao/galeria-vistas.png",
+      "unchanged": true,
+      "sha256": "9aa109983e03993d42fe3dcc75e7d9ac2f3ab43958f948265597d6fe618762ab"
+    },
+    {
+      "path": "validacao/icones-tamanho-real.png",
+      "unchanged": true,
+      "sha256": "08089488ff76b8acd930a4ebc027a3d2348e5735c57cda056c046cfa42e3875e"
+    },
+    {
+      "path": "validacao/manual-pagina-1.png",
+      "unchanged": true,
+      "sha256": "1bb0ef25396cccbccac04a2fabfb6b0e009df3d2a3b928277238016f8475d979"
+    },
+    {
+      "path": "validacao/manual-pagina-2.png",
+      "unchanged": true,
+      "sha256": "0624d01960340e23613fa6cbeed8489f9a39d14fe04e2bcd84461272712a890f"
+    },
+    {
+      "path": "validacao/manual-pagina-3.png",
+      "unchanged": true,
+      "sha256": "a5fe5c386ca3b08b877ade8a5e30201c659096f44230a95bf8ee6fc8a5a78b72"
+    },
+    {
+      "path": "validacao/manual-pagina-4.png",
+      "unchanged": true,
+      "sha256": "0d702d4059068c2f99acb93d2af723516fd6021b2c9b7ab47c871a31d5a73470"
+    },
+    {
+      "path": "validacao/manual-pagina-5.png",
+      "unchanged": true,
+      "sha256": "455573dff2ff0957fb6d67ea7df76831e5b66a821dfc75bfee60e05bfc5ec673"
+    },
+    {
+      "path": "validacao/manual-pagina-6.png",
+      "unchanged": true,
+      "sha256": "121e9d5b4c4e578a3ad0c3051fc5a0a188ecbcbf6852cb30524e51b57251c8f4"
+    },
+    {
+      "path": "validacao/manual-pagina-7.png",
+      "unchanged": true,
+      "sha256": "6a8de89397cf577d4df95ee12b32033f702ab9df4a63d7bf25161caffae8ebd2"
+    },
+    {
+      "path": "validacao/manual-texto.txt",
+      "unchanged": true,
+      "sha256": "ab44b2925d590fb7da9848a90bb7c24baa02c9334185f8596557ddf59e6fc2e2"
+    },
+    {
+      "path": "validacao/RELATORIO.md",
+      "unchanged": true,
+      "sha256": "c6e7e0163b2815bdccb9aad899c5cf7c5b58a65ae6287c40ff0add043b580b4e"
+    },
+    {
+      "path": "validacao/verificacao-tecnica.json",
+      "unchanged": true,
+      "sha256": "b4086f512fc94c6a62df2405a640542bc1b6f7bda95039e638201afe9028a108"
+    }
+  ],
+  "assetChecks": [
+    {
+      "variant": "branca",
+      "name": "full-character",
+      "source": "04-sistema/full-character.svg",
+      "width": 2200,
+      "height": 2177,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 2326434,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "head-mark",
+      "source": "04-sistema/head-mark.svg",
+      "width": 1400,
+      "height": 1263,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 880622,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "brand-symbol",
+      "source": "04-sistema/brand-symbol.svg",
+      "width": 1024,
+      "height": 1024,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 522715,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "full-character-solid",
+      "source": "03-mestre/raposa-solid.svg",
+      "width": 2200,
+      "height": 2177,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 2326434,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "cauda",
+      "source": "03-mestre/cauda.svg",
+      "width": 1200,
+      "height": 2257,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 1215945,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "avatar",
+      "source": "04-sistema/avatar.svg",
+      "width": 1024,
+      "height": 1024,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 223038,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "app-icon",
+      "source": "04-sistema/app-icon.svg",
+      "width": 1024,
+      "height": 1024,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 42277,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "expressoes/neutro",
+      "source": "06-expressoes/neutro.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 461946,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "expressoes/curioso",
+      "source": "06-expressoes/curioso.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 462001,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "expressoes/feliz",
+      "source": "06-expressoes/feliz.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 461946,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "expressoes/pensando",
+      "source": "06-expressoes/pensando.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 461951,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "expressoes/alerta",
+      "source": "06-expressoes/alerta.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 461965,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "expressoes/satisfeito",
+      "source": "06-expressoes/satisfeito.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 461946,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "expressoes/frustracao",
+      "source": "06-expressoes/frustracao.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 461938,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "expressoes/comemorando",
+      "source": "06-expressoes/comemorando.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 461938,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "icones/simbolo-16",
+      "source": "04-sistema/icones/simbolo-16.svg",
+      "width": 16,
+      "height": 16,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 98,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "icones/simbolo-24",
+      "source": "04-sistema/icones/simbolo-24.svg",
+      "width": 24,
+      "height": 24,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 241,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "icones/simbolo-32",
+      "source": "04-sistema/icones/simbolo-32.svg",
+      "width": 32,
+      "height": 32,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 452,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "icones/simbolo-48",
+      "source": "04-sistema/icones/simbolo-48.svg",
+      "width": 48,
+      "height": 48,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 1058,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "icones/simbolo-64",
+      "source": "04-sistema/icones/simbolo-64.svg",
+      "width": 64,
+      "height": 64,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 1932,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "icones/simbolo-128",
+      "source": "04-sistema/icones/simbolo-128.svg",
+      "width": 128,
+      "height": 128,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 7947,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "branca",
+      "name": "icones/simbolo-256",
+      "source": "04-sistema/icones/simbolo-256.svg",
+      "width": 256,
+      "height": 256,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 32302,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "full-character",
+      "source": "04-sistema/full-character.svg",
+      "width": 2200,
+      "height": 2177,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 2326434,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "head-mark",
+      "source": "04-sistema/head-mark.svg",
+      "width": 1400,
+      "height": 1263,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 880622,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "brand-symbol",
+      "source": "04-sistema/brand-symbol.svg",
+      "width": 1024,
+      "height": 1024,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 522715,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "full-character-solid",
+      "source": "03-mestre/raposa-solid.svg",
+      "width": 2200,
+      "height": 2177,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 2326434,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "cauda",
+      "source": "03-mestre/cauda.svg",
+      "width": 1200,
+      "height": 2257,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 1215945,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "avatar",
+      "source": "04-sistema/avatar.svg",
+      "width": 1024,
+      "height": 1024,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 223038,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "app-icon",
+      "source": "04-sistema/app-icon.svg",
+      "width": 1024,
+      "height": 1024,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 42277,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "expressoes/neutro",
+      "source": "06-expressoes/neutro.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 461946,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "expressoes/curioso",
+      "source": "06-expressoes/curioso.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 462001,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "expressoes/feliz",
+      "source": "06-expressoes/feliz.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 461946,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "expressoes/pensando",
+      "source": "06-expressoes/pensando.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 461951,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "expressoes/alerta",
+      "source": "06-expressoes/alerta.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 461965,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "expressoes/satisfeito",
+      "source": "06-expressoes/satisfeito.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 461946,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "expressoes/frustracao",
+      "source": "06-expressoes/frustracao.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 461938,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "expressoes/comemorando",
+      "source": "06-expressoes/comemorando.svg",
+      "width": 900,
+      "height": 852,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 461938,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "icones/simbolo-16",
+      "source": "04-sistema/icones/simbolo-16.svg",
+      "width": 16,
+      "height": 16,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 98,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "icones/simbolo-24",
+      "source": "04-sistema/icones/simbolo-24.svg",
+      "width": 24,
+      "height": 24,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 241,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "icones/simbolo-32",
+      "source": "04-sistema/icones/simbolo-32.svg",
+      "width": 32,
+      "height": 32,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 452,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "icones/simbolo-48",
+      "source": "04-sistema/icones/simbolo-48.svg",
+      "width": 48,
+      "height": 48,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 1058,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "icones/simbolo-64",
+      "source": "04-sistema/icones/simbolo-64.svg",
+      "width": 64,
+      "height": 64,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 1932,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "icones/simbolo-128",
+      "source": "04-sistema/icones/simbolo-128.svg",
+      "width": 128,
+      "height": 128,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 7947,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    },
+    {
+      "variant": "preta",
+      "name": "icones/simbolo-256",
+      "source": "04-sistema/icones/simbolo-256.svg",
+      "width": 256,
+      "height": 256,
+      "exactConstruction": true,
+      "protectedColorsPreserved": true,
+      "alphaIdentical": true,
+      "alphaDifferences": 0,
+      "transparentPixels": 32302,
+      "transparentCorners": true,
+      "nonGrayscaleColors": [],
+      "nonGrayscalePixels": 0
+    }
+  ],
+  "failures": [],
+  "passed": true
+}

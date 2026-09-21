@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-09",
+  "edition": 3,
+  "pdf_pages": 7,
+  "pdf_pages_visually_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "gallery_viewports": [
+    [
+      1440,
+      1000
+    ],
+    [
+      390,
+      844
+    ]
+  ],
+  "broken_images": [],
+  "mobile_horizontal_overflow": false,
+  "body_studies": 3,
+  "local_http_status": 200,
+  "retired_assets_referenced_in_gallery": false
+}

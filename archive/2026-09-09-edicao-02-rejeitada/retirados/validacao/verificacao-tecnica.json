@@ -1,0 +1,547 @@
+{
+  "date": "2026-09-09",
+  "edition": 2,
+  "vectorFiles": 52,
+  "pngFiles": 52,
+  "expressions": 8,
+  "poses": 10,
+  "icons": [
+    16,
+    24,
+    32
+  ],
+  "icoFrames": 3,
+  "sourceSha256": "d898df1ed55f31ab80c3edb34e5678785aab3b466fb9a3c3fa03748d3b4df86c",
+  "mainHeadAndMaskUnchanged": true,
+  "poseHeadModels": [
+    "approved-three-quarter",
+    "revised-profile"
+  ],
+  "coloredEyes": "#000000",
+  "connectedSilhouettes": [
+    {
+      "name": "mestre",
+      "components": 1,
+      "areas": [
+        248564
+      ]
+    },
+    {
+      "name": "frontal",
+      "components": 1,
+      "areas": [
+        224223
+      ]
+    },
+    {
+      "name": "lateral",
+      "components": 1,
+      "areas": [
+        228553
+      ]
+    },
+    {
+      "name": "traseira",
+      "components": 1,
+      "areas": [
+        225666
+      ]
+    },
+    {
+      "name": "sentada",
+      "components": 1,
+      "areas": [
+        229313
+      ]
+    },
+    {
+      "name": "em-pe",
+      "components": 1,
+      "areas": [
+        102828
+      ]
+    },
+    {
+      "name": "caminhando",
+      "components": 1,
+      "areas": [
+        101780
+      ]
+    },
+    {
+      "name": "farejando",
+      "components": 1,
+      "areas": [
+        76901
+      ]
+    },
+    {
+      "name": "espreguicando",
+      "components": 1,
+      "areas": [
+        99965
+      ]
+    },
+    {
+      "name": "agachada",
+      "components": 1,
+      "areas": [
+        85542
+      ]
+    },
+    {
+      "name": "deitada",
+      "components": 1,
+      "areas": [
+        94239
+      ]
+    },
+    {
+      "name": "dormindo",
+      "components": 1,
+      "areas": [
+        176562
+      ]
+    },
+    {
+      "name": "saltando",
+      "components": 1,
+      "areas": [
+        90222
+      ]
+    },
+    {
+      "name": "olhando-para-tras",
+      "components": 1,
+      "areas": [
+        212629
+      ]
+    }
+  ],
+  "silhouetteComparison": {
+    "method": "Thresholded foreground of approved left character versus SVG alpha, same source coordinates; tail base expanded inside the torso",
+    "intersectionOverUnion": 0.9543852715476073,
+    "sourceArea": 441525,
+    "vectorArea": 448590,
+    "meanRgbAbsoluteDifference": 10.578201854280259
+  },
+  "checks": [
+    {
+      "file": "03-mestre/raposa-mestre.png",
+      "width": 1400,
+      "height": 1385,
+      "hasAlpha": true,
+      "transparentPixels": 940018,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "03-mestre/raposa-solid.png",
+      "width": 1400,
+      "height": 1385,
+      "hasAlpha": true,
+      "transparentPixels": 940018,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "03-mestre/raposa-silhouette.png",
+      "width": 1400,
+      "height": 1385,
+      "hasAlpha": true,
+      "transparentPixels": 940058,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "03-mestre/raposa-black.png",
+      "width": 1400,
+      "height": 1385,
+      "hasAlpha": true,
+      "transparentPixels": 940058,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "03-mestre/raposa-mono.png",
+      "width": 1400,
+      "height": 1385,
+      "hasAlpha": true,
+      "transparentPixels": 1167852,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "03-mestre/raposa-reverse.png",
+      "width": 1400,
+      "height": 1385,
+      "hasAlpha": true,
+      "transparentPixels": 940058,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "03-mestre/fundo-claro.png",
+      "width": 1400,
+      "height": 1385,
+      "hasAlpha": true,
+      "transparentPixels": 0,
+      "opaqueEdgePixels": 5566
+    },
+    {
+      "file": "03-mestre/fundo-roxo.png",
+      "width": 1400,
+      "height": 1385,
+      "hasAlpha": true,
+      "transparentPixels": 0,
+      "opaqueEdgePixels": 5566
+    },
+    {
+      "file": "03-mestre/cabeca.png",
+      "width": 1024,
+      "height": 924,
+      "hasAlpha": true,
+      "transparentPixels": 470826,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "03-mestre/cauda.png",
+      "width": 800,
+      "height": 1505,
+      "hasAlpha": true,
+      "transparentPixels": 539885,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "04-sistema/head-mark.png",
+      "width": 1024,
+      "height": 924,
+      "hasAlpha": true,
+      "transparentPixels": 470826,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "04-sistema/full-character.png",
+      "width": 1400,
+      "height": 1385,
+      "hasAlpha": true,
+      "transparentPixels": 940018,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "04-sistema/brand-symbol.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "transparentPixels": 130176,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "04-sistema/brand-symbol-mono.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "transparentPixels": 130176,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "04-sistema/icones/simbolo-16.png",
+      "width": 16,
+      "height": 16,
+      "hasAlpha": true,
+      "transparentPixels": 98,
+      "opaqueEdgePixels": 4
+    },
+    {
+      "file": "04-sistema/icones/simbolo-24.png",
+      "width": 24,
+      "height": 24,
+      "hasAlpha": true,
+      "transparentPixels": 241,
+      "opaqueEdgePixels": 2
+    },
+    {
+      "file": "04-sistema/icones/simbolo-32.png",
+      "width": 32,
+      "height": 32,
+      "hasAlpha": true,
+      "transparentPixels": 452,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "04-sistema/icones/simbolo-48.png",
+      "width": 48,
+      "height": 48,
+      "hasAlpha": true,
+      "transparentPixels": 1058,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "04-sistema/icones/simbolo-64.png",
+      "width": 64,
+      "height": 64,
+      "hasAlpha": true,
+      "transparentPixels": 1932,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "04-sistema/icones/simbolo-128.png",
+      "width": 128,
+      "height": 128,
+      "hasAlpha": true,
+      "transparentPixels": 7947,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "04-sistema/icones/simbolo-256.png",
+      "width": 256,
+      "height": 256,
+      "hasAlpha": true,
+      "transparentPixels": 32302,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "04-sistema/app-icon.png",
+      "width": 1024,
+      "height": 1024,
+      "hasAlpha": true,
+      "transparentPixels": 42277,
+      "opaqueEdgePixels": 2444
+    },
+    {
+      "file": "04-sistema/avatar.png",
+      "width": 1024,
+      "height": 1024,
+      "hasAlpha": true,
+      "transparentPixels": 223038,
+      "opaqueEdgePixels": 223
+    },
+    {
+      "file": "05-construcao/vista-tres-quartos.png",
+      "width": 1400,
+      "height": 1385,
+      "hasAlpha": true,
+      "transparentPixels": 940018,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "05-construcao/vista-frontal.png",
+      "width": 1400,
+      "height": 1385,
+      "hasAlpha": true,
+      "transparentPixels": 1038092,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "05-construcao/vista-lateral.png",
+      "width": 1400,
+      "height": 1385,
+      "hasAlpha": true,
+      "transparentPixels": 1020104,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "05-construcao/vista-traseira.png",
+      "width": 1400,
+      "height": 1385,
+      "hasAlpha": true,
+      "transparentPixels": 1032899,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "06-expressoes/neutro.png",
+      "width": 900,
+      "height": 852,
+      "hasAlpha": true,
+      "transparentPixels": 461946,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "06-expressoes/curioso.png",
+      "width": 900,
+      "height": 852,
+      "hasAlpha": true,
+      "transparentPixels": 462001,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "06-expressoes/feliz.png",
+      "width": 900,
+      "height": 852,
+      "hasAlpha": true,
+      "transparentPixels": 461946,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "06-expressoes/pensando.png",
+      "width": 900,
+      "height": 852,
+      "hasAlpha": true,
+      "transparentPixels": 461951,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "06-expressoes/alerta.png",
+      "width": 900,
+      "height": 852,
+      "hasAlpha": true,
+      "transparentPixels": 461965,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "06-expressoes/satisfeito.png",
+      "width": 900,
+      "height": 852,
+      "hasAlpha": true,
+      "transparentPixels": 461946,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "06-expressoes/frustracao.png",
+      "width": 900,
+      "height": 852,
+      "hasAlpha": true,
+      "transparentPixels": 461938,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "06-expressoes/comemorando.png",
+      "width": 900,
+      "height": 852,
+      "hasAlpha": true,
+      "transparentPixels": 461938,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "07-poses/sentada.png",
+      "width": 1400,
+      "height": 1422,
+      "hasAlpha": true,
+      "transparentPixels": 1020854,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "07-poses/em-pe.png",
+      "width": 1400,
+      "height": 1042,
+      "hasAlpha": true,
+      "transparentPixels": 1044110,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "07-poses/caminhando.png",
+      "width": 1400,
+      "height": 1026,
+      "hasAlpha": true,
+      "transparentPixels": 1025841,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "07-poses/farejando.png",
+      "width": 1400,
+      "height": 781,
+      "hasAlpha": true,
+      "transparentPixels": 782911,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "07-poses/espreguicando.png",
+      "width": 1400,
+      "height": 1183,
+      "hasAlpha": true,
+      "transparentPixels": 1252612,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "07-poses/agachada.png",
+      "width": 1400,
+      "height": 772,
+      "hasAlpha": true,
+      "transparentPixels": 736107,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "07-poses/deitada.png",
+      "width": 1400,
+      "height": 774,
+      "hasAlpha": true,
+      "transparentPixels": 704262,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "07-poses/dormindo.png",
+      "width": 1400,
+      "height": 1006,
+      "hasAlpha": true,
+      "transparentPixels": 699893,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "07-poses/saltando.png",
+      "width": 1400,
+      "height": 936,
+      "hasAlpha": true,
+      "transparentPixels": 946512,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "07-poses/olhando-para-tras.png",
+      "width": 1400,
+      "height": 1638,
+      "hasAlpha": true,
+      "transparentPixels": 1100895,
+      "opaqueEdgePixels": 0
+    },
+    {
+      "file": "pranchas/03-personagem-mestre.png",
+      "width": 2000,
+      "height": 1579,
+      "hasAlpha": true,
+      "transparentPixels": 0,
+      "opaqueEdgePixels": 7154
+    },
+    {
+      "file": "pranchas/04-sistema.png",
+      "width": 1800,
+      "height": 834,
+      "hasAlpha": true,
+      "transparentPixels": 0,
+      "opaqueEdgePixels": 5264
+    },
+    {
+      "file": "pranchas/05-vistas.png",
+      "width": 2100,
+      "height": 831,
+      "hasAlpha": true,
+      "transparentPixels": 0,
+      "opaqueEdgePixels": 5858
+    },
+    {
+      "file": "pranchas/06-expressoes.png",
+      "width": 2100,
+      "height": 1276,
+      "hasAlpha": true,
+      "transparentPixels": 0,
+      "opaqueEdgePixels": 6748
+    },
+    {
+      "file": "pranchas/07-poses.png",
+      "width": 2500,
+      "height": 1180,
+      "hasAlpha": true,
+      "transparentPixels": 0,
+      "opaqueEdgePixels": 7356
+    },
+    {
+      "file": "pranchas/05-geometria.png",
+      "width": 2000,
+      "height": 1579,
+      "hasAlpha": true,
+      "transparentPixels": 0,
+      "opaqueEdgePixels": 7154
+    },
+    {
+      "file": "pranchas/05-paleta.png",
+      "width": 1600,
+      "height": 503,
+      "hasAlpha": true,
+      "transparentPixels": 0,
+      "opaqueEdgePixels": 4202
+    }
+  ],
+  "failures": []
+}

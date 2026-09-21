@@ -1,0 +1,298 @@
+{
+  "date": "2026-09-09",
+  "edition": 3,
+  "status": "body-correction-studies",
+  "vectorFiles": 37,
+  "nativePngFiles": 37,
+  "bodyStudyPngFiles": 3,
+  "masterConstructionUnchanged": true,
+  "approvedOriginalSha256": "d898df1ed55f31ab80c3edb34e5678785aab3b466fb9a3c3fa03748d3b4df86c",
+  "checks": [
+    {
+      "name": "03-mestre/raposa-mestre",
+      "width": 1400,
+      "height": 1385,
+      "transparentPixels": 940018,
+      "edgePixels": 0
+    },
+    {
+      "name": "03-mestre/raposa-solid",
+      "width": 1400,
+      "height": 1385,
+      "transparentPixels": 940018,
+      "edgePixels": 0
+    },
+    {
+      "name": "03-mestre/raposa-silhouette",
+      "width": 1400,
+      "height": 1385,
+      "transparentPixels": 940058,
+      "edgePixels": 0
+    },
+    {
+      "name": "03-mestre/raposa-black",
+      "width": 1400,
+      "height": 1385,
+      "transparentPixels": 940058,
+      "edgePixels": 0
+    },
+    {
+      "name": "03-mestre/raposa-mono",
+      "width": 1400,
+      "height": 1385,
+      "transparentPixels": 1167852,
+      "edgePixels": 0
+    },
+    {
+      "name": "03-mestre/raposa-reverse",
+      "width": 1400,
+      "height": 1385,
+      "transparentPixels": 940058,
+      "edgePixels": 0
+    },
+    {
+      "name": "03-mestre/fundo-claro",
+      "width": 1400,
+      "height": 1385,
+      "transparentPixels": 0,
+      "edgePixels": 5566
+    },
+    {
+      "name": "03-mestre/fundo-roxo",
+      "width": 1400,
+      "height": 1385,
+      "transparentPixels": 0,
+      "edgePixels": 5566
+    },
+    {
+      "name": "03-mestre/cabeca",
+      "width": 1024,
+      "height": 924,
+      "transparentPixels": 470826,
+      "edgePixels": 0
+    },
+    {
+      "name": "03-mestre/cauda",
+      "width": 800,
+      "height": 1505,
+      "transparentPixels": 539885,
+      "edgePixels": 0
+    },
+    {
+      "name": "04-sistema/head-mark",
+      "width": 1024,
+      "height": 924,
+      "transparentPixels": 470826,
+      "edgePixels": 0
+    },
+    {
+      "name": "04-sistema/full-character",
+      "width": 1400,
+      "height": 1385,
+      "transparentPixels": 940018,
+      "edgePixels": 0
+    },
+    {
+      "name": "04-sistema/brand-symbol",
+      "width": 512,
+      "height": 512,
+      "transparentPixels": 130176,
+      "edgePixels": 0
+    },
+    {
+      "name": "04-sistema/brand-symbol-mono",
+      "width": 512,
+      "height": 512,
+      "transparentPixels": 130176,
+      "edgePixels": 0
+    },
+    {
+      "name": "04-sistema/icones/simbolo-16",
+      "width": 16,
+      "height": 16,
+      "transparentPixels": 98,
+      "edgePixels": 4
+    },
+    {
+      "name": "04-sistema/icones/simbolo-24",
+      "width": 24,
+      "height": 24,
+      "transparentPixels": 241,
+      "edgePixels": 2
+    },
+    {
+      "name": "04-sistema/icones/simbolo-32",
+      "width": 32,
+      "height": 32,
+      "transparentPixels": 452,
+      "edgePixels": 0
+    },
+    {
+      "name": "04-sistema/icones/simbolo-48",
+      "width": 48,
+      "height": 48,
+      "transparentPixels": 1058,
+      "edgePixels": 0
+    },
+    {
+      "name": "04-sistema/icones/simbolo-64",
+      "width": 64,
+      "height": 64,
+      "transparentPixels": 1932,
+      "edgePixels": 0
+    },
+    {
+      "name": "04-sistema/icones/simbolo-128",
+      "width": 128,
+      "height": 128,
+      "transparentPixels": 7947,
+      "edgePixels": 0
+    },
+    {
+      "name": "04-sistema/icones/simbolo-256",
+      "width": 256,
+      "height": 256,
+      "transparentPixels": 32302,
+      "edgePixels": 0
+    },
+    {
+      "name": "04-sistema/app-icon",
+      "width": 1024,
+      "height": 1024,
+      "transparentPixels": 42277,
+      "edgePixels": 2444
+    },
+    {
+      "name": "04-sistema/avatar",
+      "width": 1024,
+      "height": 1024,
+      "transparentPixels": 223038,
+      "edgePixels": 223
+    },
+    {
+      "name": "05-construcao/vista-tres-quartos",
+      "width": 1400,
+      "height": 1385,
+      "transparentPixels": 940018,
+      "edgePixels": 0
+    },
+    {
+      "name": "06-expressoes/neutro",
+      "width": 900,
+      "height": 852,
+      "transparentPixels": 461946,
+      "edgePixels": 0
+    },
+    {
+      "name": "06-expressoes/curioso",
+      "width": 900,
+      "height": 852,
+      "transparentPixels": 462001,
+      "edgePixels": 0
+    },
+    {
+      "name": "06-expressoes/feliz",
+      "width": 900,
+      "height": 852,
+      "transparentPixels": 461946,
+      "edgePixels": 0
+    },
+    {
+      "name": "06-expressoes/pensando",
+      "width": 900,
+      "height": 852,
+      "transparentPixels": 461951,
+      "edgePixels": 0
+    },
+    {
+      "name": "06-expressoes/alerta",
+      "width": 900,
+      "height": 852,
+      "transparentPixels": 461965,
+      "edgePixels": 0
+    },
+    {
+      "name": "06-expressoes/satisfeito",
+      "width": 900,
+      "height": 852,
+      "transparentPixels": 461946,
+      "edgePixels": 0
+    },
+    {
+      "name": "06-expressoes/frustracao",
+      "width": 900,
+      "height": 852,
+      "transparentPixels": 461938,
+      "edgePixels": 0
+    },
+    {
+      "name": "06-expressoes/comemorando",
+      "width": 900,
+      "height": 852,
+      "transparentPixels": 461938,
+      "edgePixels": 0
+    },
+    {
+      "name": "pranchas/03-personagem-mestre",
+      "width": 2000,
+      "height": 1579,
+      "transparentPixels": 0,
+      "edgePixels": 7154
+    },
+    {
+      "name": "pranchas/04-sistema",
+      "width": 1800,
+      "height": 834,
+      "transparentPixels": 0,
+      "edgePixels": 5264
+    },
+    {
+      "name": "pranchas/06-expressoes",
+      "width": 2100,
+      "height": 1276,
+      "transparentPixels": 0,
+      "edgePixels": 6748
+    },
+    {
+      "name": "pranchas/05-geometria",
+      "width": 2000,
+      "height": 1579,
+      "transparentPixels": 0,
+      "edgePixels": 7154
+    },
+    {
+      "name": "pranchas/05-paleta",
+      "width": 1600,
+      "height": 503,
+      "transparentPixels": 0,
+      "edgePixels": 4202
+    }
+  ],
+  "bodyStudies": [
+    {
+      "name": "em-pe",
+      "format": "png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": false,
+      "sha256": "f3c5c649c9ae5104f75dc13d236663cf0c5b69fa40f920bf4aa55d6088924265"
+    },
+    {
+      "name": "caminhando",
+      "format": "png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": false,
+      "sha256": "0d523e7bce11891e949aaba276f40e5b5c66c5c30612aad6d9b172a3311a5798"
+    },
+    {
+      "name": "farejando",
+      "format": "png",
+      "width": 1536,
+      "height": 1024,
+      "hasAlpha": false,
+      "sha256": "64860684053677cac93f3ffeb54b5256e5104f30e716c2b4eb6268686c32b0fa"
+    }
+  ],
+  "failures": []
+}

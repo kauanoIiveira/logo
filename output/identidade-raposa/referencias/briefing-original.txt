@@ -1,0 +1,1205 @@
+Quero que você desenvolva o **mascote oficial da minha marca**.
+
+Anexei referências visuais do **Kit, mascote associado ao Firefox/Mozilla**, porque considero esse trabalho de character design excepcional e gosto profundamente da maneira como o personagem foi resolvido.
+
+Use essas imagens como **referências de qualidade, linguagem, simplicidade, carisma e direção de arte**.
+
+Meu objetivo NÃO é copiar o personagem.
+
+Meu objetivo é chegar **o mais perto possível do nível de excelência e do tipo de encantamento que ele provoca**, criando, porém, uma raposa/vulpídeo original, proprietária e inequivocamente pertencente à minha marca.
+
+A pergunta que deve orientar todo o projeto é:
+
+**“Como criar uma raposa completamente própria que provoque em mim praticamente o mesmo encantamento que sinto ao olhar para Kit?”**
+
+Quero preservar principalmente:
+
+- carisma;
+- simplicidade;
+- inteligência do desenho;
+- eficiência das formas;
+- simpatia;
+- acabamento vetorial;
+- impacto visual;
+- linguagem tecnológica;
+- qualidade de direção de arte;
+- capacidade de funcionar simultaneamente como mascote e símbolo;
+- sensação emocional;
+- memorabilidade;
+- refinamento.
+
+Mas quero que o resultado final seja claramente **outro personagem, criado do zero**.
+
+Não quero uma versão pior e mais distante apenas para ser diferente.
+
+Quero outro excelente designer resolvendo um problema semelhante de maneira própria.
+
+---
+
+# PAPEL QUE VOCÊ DEVE ASSUMIR
+
+Atue simultaneamente como:
+
+- Lead Character Designer;
+- Senior Brand Designer;
+- Illustrator especializado em mascotes;
+- Logo Designer;
+- Art Director;
+- Designer de sistemas visuais para produtos digitais.
+
+Trate este trabalho como a criação de um personagem que poderá representar uma empresa por **10, 15 ou 20 anos**.
+
+Não trate como uma simples ilustração.
+
+Estamos construindo um **ATIVO DE MARCA**.
+
+Cada decisão deverá parecer intencional.
+
+Quero conseguir olhar para qualquer curva do personagem e sentir que existe uma resposta para perguntas como:
+
+- Por que essa orelha possui exatamente essa inclinação?
+- Por que os olhos estão exatamente nessa posição?
+- Por que a cabeça possui essa largura?
+- Por que essa região do rosto possui essa geometria?
+- Por que a cauda faz exatamente essa curva?
+- Por que essa área é laranja e aquela é amarela?
+- Por que a silhueta possui exatamente essas proporções?
+
+Nada deve parecer acidental.
+
+---
+
+# MODO DE TRABALHO
+
+Este é um projeto de design iterativo.
+
+**Não tente resolver todo o sistema do mascote em uma única geração de imagem.**
+
+Isso é extremamente importante.
+
+Trabalhe em fases.
+
+Mantenha a identidade da direção escolhida consistente ao longo das etapas posteriores.
+
+Sempre que gerar imagens, priorize:
+
+- consistência;
+- clareza;
+- comparação entre alternativas;
+- leitura das formas;
+- acabamento profissional;
+- ausência de elementos desnecessários.
+
+Não tente impressionar adicionando complexidade.
+
+Quero impressionar através da qualidade das decisões.
+
+---
+
+# USE OS MELHORES RECURSOS DISPONÍVEIS
+
+Utilize os recursos disponíveis no ambiente que forem realmente úteis para:
+
+- análise visual;
+- geração de imagem;
+- ilustração;
+- branding;
+- character design;
+- logo design;
+- identidade visual;
+- design vetorial;
+- sistemas visuais.
+
+Se houver ferramentas, skills ou recursos adequados, utilize-os.
+
+Não gaste a resposta me explicando quais ferramentas existem.
+
+Use-as quando forem úteis e concentre a resposta no trabalho.
+
+Caso algum recurso ideal não esteja disponível, prossiga utilizando o melhor processo possível com aquilo que estiver disponível.
+
+---
+
+# ANÁLISE DAS REFERÊNCIAS
+
+Antes de gerar qualquer conceito, analise cuidadosamente TODAS as referências anexadas.
+
+Não faça apenas uma interpretação superficial do tipo “é uma raposa laranja”.
+
+Quero que você compreenda o **raciocínio de design** responsável pelo sucesso visual do personagem.
+
+Observe especialmente:
+
+## Shape language
+
+- proporções gerais;
+- proporção cabeça/corpo;
+- largura da cabeça;
+- altura da cabeça;
+- curvatura craniana;
+- relação cabeça/pescoço;
+- relação cabeça/orelhas;
+- relação corpo/cauda;
+- distribuição das grandes massas.
+
+## Cabeça
+
+- construção da silhueta;
+- largura das bochechas;
+- formato geral;
+- áreas claras;
+- focinho;
+- transições entre planos;
+- economia de formas.
+
+## Orelhas
+
+- altura;
+- largura;
+- inclinação;
+- distância;
+- tamanho relativo;
+- base;
+- ponta;
+- relação com a cabeça.
+
+## Olhos
+
+- tamanho;
+- distância;
+- altura;
+- orientação;
+- nível de simplificação;
+- forma;
+- contraste;
+- highlights;
+- capacidade de transmitir personalidade com pouquíssima informação.
+
+## Focinho
+
+- tamanho;
+- geometria;
+- relação com os olhos;
+- relação com as áreas claras do rosto;
+- posição vertical;
+- simplicidade.
+
+## Expressão
+
+Observe como personalidade é transmitida através de:
+
+- olhos;
+- inclinação da cabeça;
+- postura;
+- orelhas;
+- silhueta;
+- cauda;
+
+em vez de depender de expressões humanas exageradas.
+
+## Cauda
+
+Dê atenção especial à cauda.
+
+Analise:
+
+- proporção;
+- tamanho;
+- massa;
+- curvatura;
+- ritmo;
+- direção;
+- função na composição;
+- impacto sobre a silhueta;
+- capacidade de transmitir movimento;
+- capacidade de tornar o personagem reconhecível.
+
+## Cor
+
+Analise:
+
+- distribuição do laranja;
+- amarelo;
+- coral;
+- rosa;
+- possíveis gradientes;
+- áreas claras;
+- contraste;
+- relação com fundos roxos;
+- forma como a cor ajuda a construir volume sem exigir detalhamento excessivo.
+
+## Simplificação
+
+Analise quantos elementos são realmente necessários para criar personalidade.
+
+Observe como o personagem continua reconhecível mesmo quando reduzido.
+
+---
+
+# O QUE EU QUERO PRESERVAR
+
+Quero preservar em alto grau a **filosofia de design** que torna as referências especiais.
+
+Quero uma raposa:
+
+- extremamente carismática;
+- simples;
+- elegante;
+- visualmente inteligente;
+- memorável;
+- tecnológica;
+- calorosa;
+- amigável;
+- sofisticada;
+- fácil de reconhecer;
+- fácil de animar;
+- fácil de reduzir;
+- adequada a produtos digitais.
+
+Quero:
+
+- formas grandes e limpas;
+- pouquíssimos elementos;
+- rosto extremamente simples;
+- olhos pequenos e encantadores;
+- focinho pequeno e elegante;
+- grandes áreas contínuas de cor;
+- uso inteligente de espaço negativo;
+- orelhas extremamente legíveis;
+- curvas suaves;
+- nenhum contorno pesado;
+- aparência vetorial premium;
+- paleta quente;
+- laranja dominante;
+- amarelo/dourado em áreas claras;
+- coral e rosa utilizados de maneira controlada;
+- roxo profundo como contraste;
+- cauda extremamente importante.
+
+A personalidade deverá surgir principalmente de:
+
+- olhos;
+- orelhas;
+- postura;
+- inclinação da cabeça;
+- cauda;
+- silhueta.
+
+Quero que o resultado pareça extremamente simples depois de pronto.
+
+Mas essa simplicidade deve ser resultado de **muito refinamento**, não da ausência de trabalho.
+
+---
+
+# OBJETIVO EMOCIONAL
+
+O personagem precisa provocar aproximadamente esta reação:
+
+**“Meu Deus, que criatura perfeita.”**
+
+Quero que seja:
+
+- fofo sem ser infantil demais;
+- amigável sem parecer bobo;
+- inteligente sem parecer arrogante;
+- tecnológico sem parecer robótico;
+- simpático sem depender de exageros;
+- elegante sem perder personalidade;
+- expressivo sem depender de um rosto humano.
+
+A expressão principal deve transmitir algo entre:
+
+- curiosidade;
+- gentileza;
+- inteligência;
+- calma;
+- leve travessura.
+
+Não quero:
+
+- sorriso humano exagerado;
+- dentes;
+- boca cartunesca aberta;
+- olhos gigantes;
+- estética infantil;
+- anime;
+- furry;
+- cartoon genérico;
+- mascote genérico de startup;
+- excesso de expressividade facial humana.
+
+---
+
+# PROXIMIDADE COM AS REFERÊNCIAS
+
+Quero proximidade perceptível de **escola de design**, não reprodução literal.
+
+Alguém que adore o trabalho de character design presente nas referências provavelmente também deve gostar muito deste personagem.
+
+É aceitável compartilhar princípios gerais como:
+
+- minimalismo;
+- raposa/vulpídeo;
+- paleta quente;
+- gradientes suaves;
+- olhos pequenos;
+- formas grandes;
+- cauda expressiva;
+- contraste com roxo;
+- economia extrema de elementos;
+- acabamento editorial/vetorial contemporâneo;
+- linguagem amigável de produto digital.
+
+Porém, o novo personagem NÃO pode parecer:
+
+- uma recoloração de Kit;
+- uma skin;
+- um redesenho direto;
+- uma variação alternativa;
+- uma reconstrução;
+- fan art oficial;
+- um personagem perdido da Mozilla;
+- um membro da família visual do Firefox;
+- uma modificação mínima da referência.
+
+Portanto:
+
+- NÃO copie exatamente a geometria da cabeça;
+- NÃO reproduza exatamente a silhueta das bochechas;
+- NÃO replique exatamente forma, inclinação e posicionamento das orelhas;
+- NÃO coloque olhos equivalentes nas mesmas proporções e coordenadas;
+- NÃO replique literalmente o focinho;
+- NÃO copie a cauda;
+- NÃO reproduza exatamente o mesmo corpo;
+- NÃO copie poses específicas;
+- NÃO reproduza literalmente os mesmos gradientes;
+- NÃO utilize globo, esfera ou composição associada ao logo do Firefox;
+- NÃO use Mozilla, Firefox ou Kit como parte da identidade final;
+- NÃO faça tracing;
+- NÃO reconstrua shapes;
+- NÃO procure apenas pequenas alterações capazes de diferenciar a obra.
+
+Extraia princípios.
+
+Não copie geometria.
+
+A proximidade desejada está principalmente em:
+
+**QUALIDADE  
+CHARME  
+SIMPLICIDADE  
+FILOSOFIA  
+LINGUAGEM  
+REFINAMENTO  
+CARISMA**
+
+---
+
+# REGRA FUNDAMENTAL SOBRE ORIGINALIDADE
+
+**Não resolva o problema de originalidade fazendo uma raposa pior.**
+
+Essa é uma das regras mais importantes deste projeto.
+
+Se uma alternativa estiver suficientemente distante das referências, mas perder:
+
+- carisma;
+- simplicidade;
+- elegância;
+- fofura;
+- inteligência;
+- força da silhueta;
+- qualidade visual;
+
+ela deverá ser descartada.
+
+Quero simultaneamente:
+
+**ALTO GRAU DE ENCANTO**
+
+e
+
+**IDENTIDADE PRÓPRIA FORTE.**
+
+Não aceite uma solução mediana apenas porque é diferente.
+
+---
+
+# CRIE UMA ASSINATURA VISUAL PROPRIETÁRIA
+
+O mascote deve possuir características reconhecíveis exclusivamente como pertencentes à minha marca.
+
+Desenvolva **pelo menos quatro características visuais proprietárias realmente fortes**.
+
+Elas não devem parecer pequenos detalhes adicionados artificialmente.
+
+Devem fazer parte da própria construção do personagem.
+
+Priorize especialmente:
+
+---
+
+## 1. SILHUETA DA CABEÇA
+
+Crie uma geometria própria.
+
+Ela deve continuar:
+
+- simples;
+- simpática;
+- compacta;
+- elegante;
+- reconhecível.
+
+Mas não utilize o mesmo recorte das referências.
+
+A cabeça precisa poder eventualmente funcionar sozinha como marca.
+
+---
+
+## 2. ORELHAS
+
+Crie uma relação própria entre:
+
+- altura;
+- largura;
+- inclinação;
+- ponta;
+- base;
+- distância;
+- relação com a cabeça.
+
+As orelhas devem se tornar parte da assinatura do personagem.
+
+Quero poder reconhecer a raposa apenas observando cabeça + orelhas.
+
+---
+
+## 3. OLHOS E ROSTO
+
+Mantenha extrema economia.
+
+Prefiro olhos pequenos.
+
+Defina cuidadosamente:
+
+- formato;
+- distância;
+- tamanho;
+- altura;
+- orientação;
+- highlight;
+- contraste;
+- relação com o focinho.
+
+Não aumente os olhos apenas para tornar o personagem fofo.
+
+A fofura deve surgir principalmente das **proporções gerais e da inteligência do desenho**.
+
+---
+
+## 4. FOCINHO
+
+O focinho deve ser:
+
+- simples;
+- pequeno;
+- elegante;
+- extremamente charmoso;
+- formado por pouquíssimas áreas.
+
+Sua geometria deve ser própria.
+
+Evite transformar o rosto em uma sequência de elementos separados.
+
+Quero grandes massas integradas.
+
+---
+
+## 5. CAUDA — ELEMENTO FUNDAMENTAL
+
+A cauda merece atenção extraordinária.
+
+Quero que seja uma das características mais memoráveis de todo o mascote.
+
+Ela deverá possuir uma silhueta própria e talvez futuramente funcionar isoladamente como elemento gráfico da marca.
+
+Pode sugerir, de maneira extremamente sutil:
+
+- movimento;
+- energia;
+- fluxo;
+- velocidade;
+- chama;
+- sinal;
+- trajetória;
+- fluxo de dados.
+
+Mas NÃO transforme isso em uma metáfora literal.
+
+Não quero uma “cauda em formato de Wi-Fi”.
+
+Não quero uma “cauda feita de pixels”.
+
+Não quero um símbolo tecnológico clichê.
+
+Primeiro ela deve ser uma **belíssima cauda de raposa**.
+
+Depois, secundariamente, poderá carregar significado.
+
+---
+
+# LINGUAGEM DAS FORMAS
+
+Utilize predominantemente:
+
+- curvas suaves;
+- formas largas;
+- grandes massas;
+- poucos recortes;
+- transições naturais;
+- proporções cuidadosamente controladas;
+- ritmo visual;
+- espaço negativo;
+- assimetria controlada quando contribuir para personalidade.
+
+Evite:
+
+- detalhes pequenos;
+- pelos desenhados fio por fio;
+- excesso de sombras;
+- 3D realista;
+- outlines grossos;
+- texturas;
+- excesso de pontas;
+- fragmentação;
+- ruído visual;
+- excesso de elementos decorativos.
+
+Quanto menos elementos forem necessários para criar personalidade, melhor.
+
+---
+
+# PALETA
+
+Quero manter o impacto emocional de uma paleta quente.
+
+Explore principalmente:
+
+- laranja intenso;
+- laranja dourado;
+- amarelo quente;
+- coral;
+- pequenas quantidades de rosa/magenta.
+
+Para contraste:
+
+- roxo extremamente profundo;
+- violeta escuro;
+- neutros claros quando necessário.
+
+Porém, desenvolva uma **paleta própria**.
+
+Não copie valores cromáticos exatos das referências.
+
+Os gradientes devem parecer:
+
+- refinados;
+- modernos;
+- controlados;
+- intencionais.
+
+Nunca utilize gradiente apenas como decoração.
+
+O gradiente deverá ajudar em:
+
+- volume;
+- movimento;
+- hierarquia;
+- profundidade;
+- personalidade.
+
+Sempre preserve legibilidade quando o personagem precisar funcionar sem gradientes.
+
+---
+
+# CORPO
+
+O corpo deve ser extremamente simples.
+
+Não quero:
+
+- anatomia realista;
+- musculatura;
+- patas complexas;
+- dedos humanos;
+- roupas permanentes;
+- acessórios permanentes;
+- postura humana exagerada.
+
+A proporção deve favorecer:
+
+- simplicidade;
+- simpatia;
+- animação;
+- reconhecimento rápido.
+
+A cabeça pode ser proporcionalmente grande desde que permaneça sofisticada.
+
+A cauda pode ser proporcionalmente exagerada desde que a composição continue elegante.
+
+Não transforme o personagem em uma pessoa fantasiada de raposa.
+
+Preserve comportamento animal simplificado.
+
+---
+
+# EXPRESSÃO COM MÍNIMO DE ELEMENTOS
+
+Explore cuidadosamente a possibilidade de:
+
+- nenhuma boca;
+
+ou
+
+- boca extremamente reduzida.
+
+Não dependa de uma boca grande para criar emoção.
+
+Se optar por ausência de boca, a personalidade deverá surgir principalmente por:
+
+- olhar;
+- posição das orelhas;
+- inclinação da cabeça;
+- postura;
+- cauda.
+
+Isso exige que:
+
+- cabeça;
+- orelhas;
+- olhos;
+- focinho;
+- silhueta;
+- cauda
+
+sejam suficientemente fortes e proprietários.
+
+---
+
+# SILHUETA É PRIORIDADE ABSOLUTA
+
+Faça constantemente este teste:
+
+Se eu remover:
+
+- olhos;
+- cores;
+- gradientes;
+- focinho;
+- detalhes;
+
+e preencher o personagem completamente de preto,
+
+**ele continua reconhecível?**
+
+Se não, refine.
+
+A silhueta precisa funcionar principalmente através de:
+
+- orelhas;
+- cabeça;
+- pescoço/corpo;
+- cauda.
+
+Uma boa silhueta vale mais que dezenas de detalhes.
+
+---
+
+# FLUXO OBRIGATÓRIO DO PROJETO
+
+Não pule etapas.
+
+## FASE 1 — EXPLORAÇÃO CONCEITUAL
+
+Esta é a única fase que você deverá executar inicialmente.
+
+Antes de gerar a imagem, desenvolva internamente pelo menos **6 direções diferentes**.
+
+Compare-as considerando:
+
+- carisma;
+- simplicidade;
+- memorabilidade;
+- originalidade;
+- qualidade estética;
+- força da silhueta;
+- uso como favicon;
+- uso como logo;
+- uso como mascote;
+- facilidade de animação;
+- distância das referências;
+- potencial de identidade de marca;
+- capacidade de provocar encantamento.
+
+Depois crie uma **prancha de exploração conceitual contendo 6 propostas visuais distintas**.
+
+As seis devem compartilhar o briefing geral, mas apresentar soluções realmente diferentes principalmente em:
+
+- cabeça;
+- orelhas;
+- proporção;
+- focinho;
+- olhos;
+- corpo;
+- cauda.
+
+Não quero seis pequenas variações do mesmo personagem.
+
+Quero seis direções de design.
+
+### Apresentação da prancha
+
+Utilize:
+
+- fundo neutro;
+- composição limpa;
+- iluminação gráfica consistente;
+- visual de concept art profissional;
+- acabamento predominantemente vetorial;
+- personagem completo;
+- uma pequena representação da cabeça ao lado de cada proposta, se possível.
+
+Não utilize:
+
+- mockups;
+- camisetas;
+- notebooks;
+- canecas;
+- outdoors;
+- cenários;
+- roupas;
+- acessórios;
+- slogans;
+- tipografia decorativa;
+- marcas fictícias;
+- interfaces;
+- fundos complexos.
+
+O objetivo desta etapa é avaliar apenas o **CHARACTER DESIGN**.
+
+Numere claramente:
+
+01  
+02  
+03  
+04  
+05  
+06
+
+Depois da geração, faça uma avaliação breve das seis direções e indique quais **duas** parecem possuir maior potencial.
+
+**PARE AO FINAL DA FASE 1.**
+
+Não faça ainda character sheet.
+
+Não faça ainda todas as poses.
+
+Não faça ainda todas as expressões.
+
+Não faça ainda mockups.
+
+Não tente finalizar toda a identidade.
+
+Quero primeiro escolher e aprovar a melhor direção.
+
+---
+
+# FASE 2 — REFINAMENTO DA DIREÇÃO ESCOLHIDA
+
+Esta fase deverá ser executada apenas depois que eu indicar qual conceito prefiro.
+
+Quando eu selecionar uma direção:
+
+**não redesenhe o personagem do zero.**
+
+Preserve sua identidade.
+
+Crie uma prancha contendo aproximadamente **4 a 6 refinamentos controlados da mesma direção**.
+
+Explore pequenas alterações em:
+
+- largura da cabeça;
+- curvatura da cabeça;
+- inclinação das orelhas;
+- distância dos olhos;
+- formato dos olhos;
+- focinho;
+- proporção corpo/cabeça;
+- construção da cauda;
+- distribuição das cores.
+
+As alternativas devem continuar obviamente pertencendo à mesma família.
+
+Nesta fase, procure a versão definitiva.
+
+---
+
+# FASE 3 — DEFINIÇÃO DO PERSONAGEM MESTRE
+
+Depois que escolhermos a versão refinada, consolide um **MASTER CHARACTER**.
+
+Crie uma representação limpa e extremamente refinada contendo:
+
+- personagem inteiro em pose neutra 3/4;
+- cabeça em detalhe;
+- silhueta;
+- versão de cor sólida;
+- versão com gradiente;
+- versão sobre fundo claro;
+- versão sobre fundo roxo profundo.
+
+A partir desta fase, essa versão passa a ser a **fonte visual de verdade** do personagem.
+
+Não altere arbitrariamente:
+
+- proporções;
+- cabeça;
+- olhos;
+- orelhas;
+- focinho;
+- cauda;
+- distribuição básica das cores
+
+nas etapas seguintes.
+
+---
+
+# FASE 4 — MASCOT DESIGN SYSTEM
+
+Depois que o Master Character estiver aprovado, desenvolva três níveis de representação:
+
+## NÍVEL 1 — BRAND SYMBOL
+
+Uma redução extremamente simples do personagem ou de uma característica proprietária.
+
+Precisa funcionar em:
+
+- 16 px;
+- 24 px;
+- 32 px;
+- favicon;
+- pequeno ícone;
+- marca d'água.
+
+Não tente colocar o personagem inteiro dentro de 16 px.
+
+Reduza inteligentemente.
+
+---
+
+## NÍVEL 2 — HEAD MARK
+
+A cabeça isolada.
+
+Deve funcionar como:
+
+- avatar;
+- foto de perfil;
+- app icon;
+- favicon maior;
+- ícone de produto;
+- símbolo institucional.
+
+---
+
+## NÍVEL 3 — FULL CHARACTER
+
+Personagem completo para:
+
+- site;
+- dashboard;
+- onboarding;
+- empty states;
+- ajuda;
+- sucesso;
+- erro;
+- ilustrações;
+- animações;
+- campanhas.
+
+Os três níveis precisam parecer inequivocamente o mesmo personagem.
+
+---
+
+# FASE 5 — CHARACTER SHEET PROFISSIONAL
+
+Somente depois que o design estiver completamente estabelecido, crie a character sheet final.
+
+Ela deverá conter:
+
+- pose principal 3/4;
+- vista frontal;
+- vista lateral;
+- vista traseira ou 3/4 traseira;
+- head mark;
+- brand symbol;
+- personagem em silhueta;
+- versão monocromática;
+- paleta;
+- principais formas geométricas;
+- construção da cabeça;
+- construção das orelhas;
+- construção dos olhos;
+- construção do focinho;
+- construção da cauda;
+- favicon;
+- app icon;
+- avatar.
+
+Garanta alta consistência entre todas as vistas.
+
+Não redesenhe o personagem em cada quadro.
+
+---
+
+# FASE 6 — EXPRESSÕES
+
+Depois da character sheet, desenvolva aproximadamente:
+
+- neutro;
+- curioso;
+- feliz;
+- pensando;
+- alerta;
+- satisfeito;
+- leve frustração;
+- comemorando.
+
+Não modifique drasticamente o rosto.
+
+Quero que sejam obviamente o mesmo personagem.
+
+Use principalmente:
+
+- olhos;
+- orelhas;
+- inclinação da cabeça;
+- postura;
+- cauda.
+
+---
+
+# FASE 7 — POSES DE PRODUTO
+
+Posteriormente desenvolva poses apropriadas para sistemas digitais:
+
+- apontando ou indicando informação;
+- observando algo;
+- analisando dados;
+- olhando uma notificação;
+- indicando sucesso;
+- reagindo levemente a um erro;
+- aguardando;
+- celebrando;
+- ajudando o usuário;
+- descansando.
+
+Preserve comportamento animal simplificado.
+
+Não transforme o mascote em um humano fantasiado de raposa.
+
+---
+
+# TESTES OBRIGATÓRIOS
+
+Antes de considerar o projeto finalizado, faça estes testes:
+
+## TESTE 1 — 16 × 16
+
+O símbolo continua funcionando?
+
+Se não, simplifique.
+
+## TESTE 2 — PRETO E BRANCO
+
+O personagem continua forte?
+
+## TESTE 3 — SILHUETA
+
+Sem cores, olhos ou detalhes, continua reconhecível?
+
+## TESTE 4 — APENAS CABEÇA
+
+Funciona como marca?
+
+## TESTE 5 — APENAS CAUDA
+
+Possui personalidade própria?
+
+## TESTE 6 — COMPARAÇÃO COM AS REFERÊNCIAS
+
+É claramente outro personagem?
+
+Se NÃO:
+
+afaste a geometria.
+
+## TESTE 7 — COMPARAÇÃO DE QUALIDADE
+
+Possui nível comparável de:
+
+- simplicidade;
+- carisma;
+- refinamento;
+- inteligência;
+- força visual?
+
+Se NÃO:
+
+refine novamente.
+
+O equilíbrio entre os testes 6 e 7 é fundamental.
+
+---
+
+# CRITÉRIO DE SUCESSO
+
+A solução ideal deve provocar simultaneamente duas reações:
+
+**“Consigo entender imediatamente por que alguém que ama o design de Kit também se apaixonaria por esse personagem.”**
+
+e:
+
+**“Essa raposa possui uma identidade própria muito clara.”**
+
+Não quero uma tentativa inferior de imitar a referência.
+
+Quero o resultado que poderia surgir se outro excelente character designer recebesse o desafio:
+
+**“Crie uma raposa extremamente simples, adorável, tecnológica e icônica, mas encontre sua própria solução.”**
+
+---
+
+# REFERÊNCIAS ANEXADAS
+
+As imagens anexadas devem ser utilizadas como:
+
+- referência estética;
+- referência de acabamento;
+- referência de simplicidade;
+- referência de carisma;
+- referência de linguagem vetorial;
+- referência de direção de arte;
+- referência de nível de qualidade.
+
+Não:
+
+- faça tracing;
+- copie shapes;
+- reconstrua pixel a pixel;
+- copie poses;
+- copie a geometria;
+- procure uma quantidade mínima de alterações.
+
+Em vez disso:
+
+**extraia os princípios de design, compreenda por que funcionam e desenvolva uma solução nova.**
+
+---
+
+# QUALIDADE ESPERADA
+
+Quero qualidade digna de:
+
+- uma grande empresa de software;
+- uma identidade visual internacional;
+- um produto digital premium;
+- um sistema visual profissional;
+- um mascote capaz de representar uma marca durante muitos anos.
+
+Não quero aparência de:
+
+- imagem genérica de IA;
+- vetor stock;
+- clip-art;
+- personagem genérico;
+- mascote de template;
+- raposa genérica de banco de imagens.
+
+Quero decisões aparentemente intencionais em cada curva.
+
+Não adicione complexidade para esconder problemas de desenho.
+
+Se algo não funcionar, resolva através de:
+
+- proporção;
+- ritmo;
+- silhueta;
+- shape language;
+- espaço negativo;
+- posicionamento;
+- cor.
+
+---
+
+# PRIORIDADES EM ORDEM
+
+Se houver conflito entre requisitos, utilize esta hierarquia:
+
+1. **Carisma**
+2. **Qualidade do character design**
+3. **Originalidade**
+4. **Simplicidade**
+5. **Silhueta**
+6. **Memorabilidade**
+7. **Consistência**
+8. **Versatilidade como marca**
+9. **Facilidade de animação**
+10. **Detalhamento**
+
+Nunca sacrifique os primeiros itens apenas para adicionar recursos dos últimos.
+
+---
+
+# PRINCÍPIO FINAL
+
+Eu gosto MUITO do mascote presente nas referências.
+
+Portanto, não quero perder justamente aquilo que o torna especial:
+
+- simplicidade;
+- carisma;
+- olhos pequenos;
+- proporções maravilhosamente resolvidas;
+- formas grandes;
+- energia;
+- elegância;
+- cauda marcante;
+- personalidade obtida com pouquíssimos elementos.
+
+Chegue o mais próximo possível dessa **SENSAÇÃO, FILOSOFIA E NÍVEL DE DESIGN**.
+
+Mas faça com que o resultado seja inequivocamente a raposa da minha própria marca.
+
+Não comece com uma explicação longa.
+
+Analise silenciosamente as referências.
+
+Faça crítica do próprio trabalho.
+
+Descarte soluções genéricas.
+
+Não se apaixone pela primeira solução.
+
+Busque excelência.
+
+## AGORA EXECUTE SOMENTE A FASE 1.
+
+Analise todas as referências anexadas e gere a **prancha profissional contendo seis direções diferentes de character design**.
+
+O foco absoluto desta primeira geração deve ser:
+
+**HEAD SHAPE + EARS + EYES + MUZZLE + SILHOUETTE + TAIL + PROPORTIONS + CHARISMA.**
+
+Não avance ainda para as outras fases.

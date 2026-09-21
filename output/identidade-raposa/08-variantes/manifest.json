@@ -1,0 +1,414 @@
+{
+  "date": "2026-09-13",
+  "scope": "Duas versões cromáticas da matriz existente; somente valores de cor alterados.",
+  "variants": [
+    {
+      "id": "branca",
+      "label": "Branca",
+      "assets": [
+        {
+          "name": "full-character",
+          "label": "Personagem completo",
+          "source": "04-sistema/full-character.svg",
+          "svg": "branca/full-character.svg",
+          "png": "branca/full-character.png",
+          "width": 2200,
+          "height": 2177
+        },
+        {
+          "name": "head-mark",
+          "label": "Rosto",
+          "source": "04-sistema/head-mark.svg",
+          "svg": "branca/head-mark.svg",
+          "png": "branca/head-mark.png",
+          "width": 1400,
+          "height": 1263
+        },
+        {
+          "name": "brand-symbol",
+          "label": "Símbolo",
+          "source": "04-sistema/brand-symbol.svg",
+          "svg": "branca/brand-symbol.svg",
+          "png": "branca/brand-symbol.png",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "name": "full-character-solid",
+          "label": "Personagem em cores sólidas",
+          "source": "03-mestre/raposa-solid.svg",
+          "svg": "branca/full-character-solid.svg",
+          "png": "branca/full-character-solid.png",
+          "width": 2200,
+          "height": 2177
+        },
+        {
+          "name": "cauda",
+          "label": "Cauda",
+          "source": "03-mestre/cauda.svg",
+          "svg": "branca/cauda.svg",
+          "png": "branca/cauda.png",
+          "width": 1200,
+          "height": 2257
+        },
+        {
+          "name": "avatar",
+          "label": "Avatar",
+          "source": "04-sistema/avatar.svg",
+          "svg": "branca/avatar.svg",
+          "png": "branca/avatar.png",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "name": "app-icon",
+          "label": "Ícone de aplicativo",
+          "source": "04-sistema/app-icon.svg",
+          "svg": "branca/app-icon.svg",
+          "png": "branca/app-icon.png",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "name": "expressoes/neutro",
+          "label": "Neutro",
+          "source": "06-expressoes/neutro.svg",
+          "svg": "branca/expressoes/neutro.svg",
+          "png": "branca/expressoes/neutro.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "expressoes/curioso",
+          "label": "Curioso",
+          "source": "06-expressoes/curioso.svg",
+          "svg": "branca/expressoes/curioso.svg",
+          "png": "branca/expressoes/curioso.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "expressoes/feliz",
+          "label": "Feliz",
+          "source": "06-expressoes/feliz.svg",
+          "svg": "branca/expressoes/feliz.svg",
+          "png": "branca/expressoes/feliz.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "expressoes/pensando",
+          "label": "Pensando",
+          "source": "06-expressoes/pensando.svg",
+          "svg": "branca/expressoes/pensando.svg",
+          "png": "branca/expressoes/pensando.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "expressoes/alerta",
+          "label": "Alerta",
+          "source": "06-expressoes/alerta.svg",
+          "svg": "branca/expressoes/alerta.svg",
+          "png": "branca/expressoes/alerta.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "expressoes/satisfeito",
+          "label": "Satisfeito",
+          "source": "06-expressoes/satisfeito.svg",
+          "svg": "branca/expressoes/satisfeito.svg",
+          "png": "branca/expressoes/satisfeito.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "expressoes/frustracao",
+          "label": "Leve frustração",
+          "source": "06-expressoes/frustracao.svg",
+          "svg": "branca/expressoes/frustracao.svg",
+          "png": "branca/expressoes/frustracao.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "expressoes/comemorando",
+          "label": "Comemorando",
+          "source": "06-expressoes/comemorando.svg",
+          "svg": "branca/expressoes/comemorando.svg",
+          "png": "branca/expressoes/comemorando.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "icones/simbolo-16",
+          "label": "Símbolo 16 px",
+          "source": "04-sistema/icones/simbolo-16.svg",
+          "svg": "branca/icones/simbolo-16.svg",
+          "png": "branca/icones/simbolo-16.png",
+          "width": 16,
+          "height": 16
+        },
+        {
+          "name": "icones/simbolo-24",
+          "label": "Símbolo 24 px",
+          "source": "04-sistema/icones/simbolo-24.svg",
+          "svg": "branca/icones/simbolo-24.svg",
+          "png": "branca/icones/simbolo-24.png",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "name": "icones/simbolo-32",
+          "label": "Símbolo 32 px",
+          "source": "04-sistema/icones/simbolo-32.svg",
+          "svg": "branca/icones/simbolo-32.svg",
+          "png": "branca/icones/simbolo-32.png",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "name": "icones/simbolo-48",
+          "label": "Símbolo 48 px",
+          "source": "04-sistema/icones/simbolo-48.svg",
+          "svg": "branca/icones/simbolo-48.svg",
+          "png": "branca/icones/simbolo-48.png",
+          "width": 48,
+          "height": 48
+        },
+        {
+          "name": "icones/simbolo-64",
+          "label": "Símbolo 64 px",
+          "source": "04-sistema/icones/simbolo-64.svg",
+          "svg": "branca/icones/simbolo-64.svg",
+          "png": "branca/icones/simbolo-64.png",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "name": "icones/simbolo-128",
+          "label": "Símbolo 128 px",
+          "source": "04-sistema/icones/simbolo-128.svg",
+          "svg": "branca/icones/simbolo-128.svg",
+          "png": "branca/icones/simbolo-128.png",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "name": "icones/simbolo-256",
+          "label": "Símbolo 256 px",
+          "source": "04-sistema/icones/simbolo-256.svg",
+          "svg": "branca/icones/simbolo-256.svg",
+          "png": "branca/icones/simbolo-256.png",
+          "width": 256,
+          "height": 256
+        }
+      ]
+    },
+    {
+      "id": "preta",
+      "label": "Preta",
+      "assets": [
+        {
+          "name": "full-character",
+          "label": "Personagem completo",
+          "source": "04-sistema/full-character.svg",
+          "svg": "preta/full-character.svg",
+          "png": "preta/full-character.png",
+          "width": 2200,
+          "height": 2177
+        },
+        {
+          "name": "head-mark",
+          "label": "Rosto",
+          "source": "04-sistema/head-mark.svg",
+          "svg": "preta/head-mark.svg",
+          "png": "preta/head-mark.png",
+          "width": 1400,
+          "height": 1263
+        },
+        {
+          "name": "brand-symbol",
+          "label": "Símbolo",
+          "source": "04-sistema/brand-symbol.svg",
+          "svg": "preta/brand-symbol.svg",
+          "png": "preta/brand-symbol.png",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "name": "full-character-solid",
+          "label": "Personagem em cores sólidas",
+          "source": "03-mestre/raposa-solid.svg",
+          "svg": "preta/full-character-solid.svg",
+          "png": "preta/full-character-solid.png",
+          "width": 2200,
+          "height": 2177
+        },
+        {
+          "name": "cauda",
+          "label": "Cauda",
+          "source": "03-mestre/cauda.svg",
+          "svg": "preta/cauda.svg",
+          "png": "preta/cauda.png",
+          "width": 1200,
+          "height": 2257
+        },
+        {
+          "name": "avatar",
+          "label": "Avatar",
+          "source": "04-sistema/avatar.svg",
+          "svg": "preta/avatar.svg",
+          "png": "preta/avatar.png",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "name": "app-icon",
+          "label": "Ícone de aplicativo",
+          "source": "04-sistema/app-icon.svg",
+          "svg": "preta/app-icon.svg",
+          "png": "preta/app-icon.png",
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "name": "expressoes/neutro",
+          "label": "Neutro",
+          "source": "06-expressoes/neutro.svg",
+          "svg": "preta/expressoes/neutro.svg",
+          "png": "preta/expressoes/neutro.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "expressoes/curioso",
+          "label": "Curioso",
+          "source": "06-expressoes/curioso.svg",
+          "svg": "preta/expressoes/curioso.svg",
+          "png": "preta/expressoes/curioso.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "expressoes/feliz",
+          "label": "Feliz",
+          "source": "06-expressoes/feliz.svg",
+          "svg": "preta/expressoes/feliz.svg",
+          "png": "preta/expressoes/feliz.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "expressoes/pensando",
+          "label": "Pensando",
+          "source": "06-expressoes/pensando.svg",
+          "svg": "preta/expressoes/pensando.svg",
+          "png": "preta/expressoes/pensando.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "expressoes/alerta",
+          "label": "Alerta",
+          "source": "06-expressoes/alerta.svg",
+          "svg": "preta/expressoes/alerta.svg",
+          "png": "preta/expressoes/alerta.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "expressoes/satisfeito",
+          "label": "Satisfeito",
+          "source": "06-expressoes/satisfeito.svg",
+          "svg": "preta/expressoes/satisfeito.svg",
+          "png": "preta/expressoes/satisfeito.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "expressoes/frustracao",
+          "label": "Leve frustração",
+          "source": "06-expressoes/frustracao.svg",
+          "svg": "preta/expressoes/frustracao.svg",
+          "png": "preta/expressoes/frustracao.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "expressoes/comemorando",
+          "label": "Comemorando",
+          "source": "06-expressoes/comemorando.svg",
+          "svg": "preta/expressoes/comemorando.svg",
+          "png": "preta/expressoes/comemorando.png",
+          "width": 900,
+          "height": 852
+        },
+        {
+          "name": "icones/simbolo-16",
+          "label": "Símbolo 16 px",
+          "source": "04-sistema/icones/simbolo-16.svg",
+          "svg": "preta/icones/simbolo-16.svg",
+          "png": "preta/icones/simbolo-16.png",
+          "width": 16,
+          "height": 16
+        },
+        {
+          "name": "icones/simbolo-24",
+          "label": "Símbolo 24 px",
+          "source": "04-sistema/icones/simbolo-24.svg",
+          "svg": "preta/icones/simbolo-24.svg",
+          "png": "preta/icones/simbolo-24.png",
+          "width": 24,
+          "height": 24
+        },
+        {
+          "name": "icones/simbolo-32",
+          "label": "Símbolo 32 px",
+          "source": "04-sistema/icones/simbolo-32.svg",
+          "svg": "preta/icones/simbolo-32.svg",
+          "png": "preta/icones/simbolo-32.png",
+          "width": 32,
+          "height": 32
+        },
+        {
+          "name": "icones/simbolo-48",
+          "label": "Símbolo 48 px",
+          "source": "04-sistema/icones/simbolo-48.svg",
+          "svg": "preta/icones/simbolo-48.svg",
+          "png": "preta/icones/simbolo-48.png",
+          "width": 48,
+          "height": 48
+        },
+        {
+          "name": "icones/simbolo-64",
+          "label": "Símbolo 64 px",
+          "source": "04-sistema/icones/simbolo-64.svg",
+          "svg": "preta/icones/simbolo-64.svg",
+          "png": "preta/icones/simbolo-64.png",
+          "width": 64,
+          "height": 64
+        },
+        {
+          "name": "icones/simbolo-128",
+          "label": "Símbolo 128 px",
+          "source": "04-sistema/icones/simbolo-128.svg",
+          "svg": "preta/icones/simbolo-128.svg",
+          "png": "preta/icones/simbolo-128.png",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "name": "icones/simbolo-256",
+          "label": "Símbolo 256 px",
+          "source": "04-sistema/icones/simbolo-256.svg",
+          "svg": "preta/icones/simbolo-256.svg",
+          "png": "preta/icones/simbolo-256.png",
+          "width": 256,
+          "height": 256
+        }
+      ]
+    }
+  ]
+}

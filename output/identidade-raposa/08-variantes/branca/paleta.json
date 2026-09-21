@@ -1,0 +1,36 @@
+{
+  "name": "Branca",
+  "gradients": {
+    "head": [
+      "#CACACA",
+      "#E6E6E6",
+      "#F1F1F1",
+      "#F6F6F6"
+    ],
+    "body": [
+      "#E8E8E8",
+      "#E3E3E3",
+      "#CFCFCF"
+    ],
+    "tail": [
+      "#E5E5E5",
+      "#DFDFDF",
+      "#D5D5D5",
+      "#C4C4C4"
+    ],
+    "tip": [
+      "#FFFFFF",
+      "#F8F8F8"
+    ],
+    "gold": [
+      "#FFFFFF",
+      "#ECECEC"
+    ]
+  },
+  "flat": "#E3E3E3",
+  "mark": "#FFFFFF",
+  "eyes": "#000000",
+  "eyeHighlight": "#FFFFFF",
+  "nose": "#171717",
+  "applicationBackground": "#343434"
+}

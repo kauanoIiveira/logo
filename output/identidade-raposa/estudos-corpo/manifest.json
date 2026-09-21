@@ -1,0 +1,29 @@
+[
+  {
+    "name": "em-pe",
+    "label": "Base do corpo em pé",
+    "png": "em-pe.png",
+    "format": "PNG",
+    "background": "ivory",
+    "status": "anatomy-study",
+    "generatedSource": "exec-cf809dcb-8d5f-4f2f-86a6-718c25c261f9.png"
+  },
+  {
+    "name": "caminhando",
+    "label": "Caminhando",
+    "png": "caminhando.png",
+    "format": "PNG",
+    "background": "ivory",
+    "status": "anatomy-study",
+    "generatedSource": "exec-aee55232-6ad7-46fa-8499-672a3c6fed75.png"
+  },
+  {
+    "name": "farejando",
+    "label": "Farejando o chão",
+    "png": "farejando.png",
+    "format": "PNG",
+    "background": "ivory",
+    "status": "anatomy-study",
+    "generatedSource": "exec-1742ce54-d758-4eaf-a75f-073ddb1b7e87.png"
+  }
+]
